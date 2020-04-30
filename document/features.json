@@ -1,0 +1,5002 @@
+[
+{
+    "asin": "B000IG9NS6",
+    "featureIdx": 4079,
+    "val": 4.978799819946289
+},
+{
+    "asin": "B000FIPV42",
+    "featureIdx": 4095,
+    "val": 2.5
+},
+{
+    "asin": "B000FZ1AO0",
+    "featureIdx": 4095,
+    "val": 0.2793999910354614
+},
+{
+    "asin": "B000FFAXZ2",
+    "featureIdx": 4095,
+    "val": 5.60830020904541
+},
+{
+    "asin": "B000FHD8SO",
+    "featureIdx": 4085,
+    "val": 0.20090000331401825
+},
+{
+    "asin": "B000FQ5QXA",
+    "featureIdx": 4095,
+    "val": 0.17010000348091125
+},
+{
+    "asin": "B000EJCXMA",
+    "featureIdx": 4086,
+    "val": 5.628799915313721
+},
+{
+    "asin": "B0007MQ956",
+    "featureIdx": 4094,
+    "val": 0.020400000736117363
+},
+{
+    "asin": "B000BNRW5W",
+    "featureIdx": 4094,
+    "val": 2.336899995803833
+},
+{
+    "asin": "B000H8H5QM",
+    "featureIdx": 4080,
+    "val": 2.734999895095825
+},
+{
+    "asin": "B000FNLYH0",
+    "featureIdx": 4094,
+    "val": 1.917099952697754
+},
+{
+    "asin": "B000ARL19C",
+    "featureIdx": 4095,
+    "val": 1.8000999689102173
+},
+{
+    "asin": "B000FPRQ9S",
+    "featureIdx": 4095,
+    "val": 0.31369999051094055
+},
+{
+    "asin": "B000FI5GH4",
+    "featureIdx": 4094,
+    "val": 2.8719000816345215
+},
+{
+    "asin": "B000EXW286",
+    "featureIdx": 4095,
+    "val": 2.9962000846862793
+},
+{
+    "asin": "B0007RTC3C",
+    "featureIdx": 4095,
+    "val": 0.3366999924182892
+},
+{
+    "asin": "B0007X9F0G",
+    "featureIdx": 4094,
+    "val": 1.29830002784729
+},
+{
+    "asin": "B000FIV1U0",
+    "featureIdx": 4094,
+    "val": 3.438199996948242
+},
+{
+    "asin": "B000EVG98W",
+    "featureIdx": 4079,
+    "val": 2.2462000846862793
+},
+{
+    "asin": "B000FBNTUM",
+    "featureIdx": 4091,
+    "val": 1.0781999826431274
+},
+{
+    "asin": "B000GJ3A02",
+    "featureIdx": 4081,
+    "val": 0.2700999975204468
+},
+{
+    "asin": "B000I5Z6HE",
+    "featureIdx": 4086,
+    "val": 0.13590000569820404
+},
+{
+    "asin": "B000BOVX9W",
+    "featureIdx": 4086,
+    "val": 3.5044000148773193
+},
+{
+    "asin": "B000FIJW7O",
+    "featureIdx": 4090,
+    "val": 1.5123000144958496
+},
+{
+    "asin": "B000B5K40K",
+    "featureIdx": 4093,
+    "val": 1.8289999961853027
+},
+{
+    "asin": "B000BT0J24",
+    "featureIdx": 4091,
+    "val": 2.7093000411987305
+},
+{
+    "asin": "B000F5M120",
+    "featureIdx": 4095,
+    "val": 4.0279998779296875
+},
+{
+    "asin": "B0009MC5P2",
+    "featureIdx": 4095,
+    "val": 2.4951999187469482
+},
+{
+    "asin": "B000EY5OK8",
+    "featureIdx": 4094,
+    "val": 0.029100000858306885
+},
+{
+    "asin": "B000FVC4NK",
+    "featureIdx": 4087,
+    "val": 3.5585999488830566
+},
+{
+    "asin": "B000F0ZYG0",
+    "featureIdx": 4093,
+    "val": 0.8593999743461609
+},
+{
+    "asin": "B000FON8N2",
+    "featureIdx": 4093,
+    "val": 1.0331000089645386
+},
+{
+    "asin": "B000EBKJVA",
+    "featureIdx": 4085,
+    "val": 3.638400077819824
+},
+{
+    "asin": "B000F4WA36",
+    "featureIdx": 4070,
+    "val": 5.316299915313721
+},
+{
+    "asin": "B000F2751U",
+    "featureIdx": 4079,
+    "val": 1.0914000272750854
+},
+{
+    "asin": "B000HQ4OAY",
+    "featureIdx": 4094,
+    "val": 0.5033000111579895
+},
+{
+    "asin": "B0007P4BGC",
+    "featureIdx": 4081,
+    "val": 0.41999998688697815
+},
+{
+    "asin": "B000ETVQ00",
+    "featureIdx": 4095,
+    "val": 0.10209999978542328
+},
+{
+    "asin": "B000EI2MXQ",
+    "featureIdx": 4091,
+    "val": 1.0851000547409058
+},
+{
+    "asin": "B000EHN7V8",
+    "featureIdx": 4086,
+    "val": 0.27239999175071716
+},
+{
+    "asin": "B000BTFWMQ",
+    "featureIdx": 4086,
+    "val": 0.7235000133514404
+},
+{
+    "asin": "B000F44N8G",
+    "featureIdx": 4070,
+    "val": 1.1309000253677368
+},
+{
+    "asin": "B000FLF6TO",
+    "featureIdx": 4094,
+    "val": 4.971399784088135
+},
+{
+    "asin": "B0007SZ59G",
+    "featureIdx": 4091,
+    "val": 1.114799976348877
+},
+{
+    "asin": "B0007RS94K",
+    "featureIdx": 4079,
+    "val": 2.9340999126434326
+},
+{
+    "asin": "B000E0TJOO",
+    "featureIdx": 4095,
+    "val": 2.6359000205993652
+},
+{
+    "asin": "B000B2IRZC",
+    "featureIdx": 4095,
+    "val": 2.3789000511169434
+},
+{
+    "asin": "B000EXPT18",
+    "featureIdx": 4091,
+    "val": 0.39910000562667847
+},
+{
+    "asin": "B000EICU6U",
+    "featureIdx": 4086,
+    "val": 0.060600001364946365
+},
+{
+    "asin": "B000G5V65C",
+    "featureIdx": 4095,
+    "val": 0.6302000284194946
+},
+{
+    "asin": "B000FBK3F6",
+    "featureIdx": 4080,
+    "val": 6.67609977722168
+},
+{
+    "asin": "B000EP83DW",
+    "featureIdx": 4095,
+    "val": 1.871000051498413
+},
+{
+    "asin": "B000FNNZEA",
+    "featureIdx": 4086,
+    "val": 2.2939999103546143
+},
+{
+    "asin": "B0007XXQNS",
+    "featureIdx": 4093,
+    "val": 1.5130000114440918
+},
+{
+    "asin": "B000AYFZ7Y",
+    "featureIdx": 4094,
+    "val": 2.5515999794006348
+},
+{
+    "asin": "B000G01UG2",
+    "featureIdx": 4092,
+    "val": 1.2568999528884888
+},
+{
+    "asin": "B000EX691M",
+    "featureIdx": 4095,
+    "val": 0.09030000120401382
+},
+{
+    "asin": "B000FTQAWI",
+    "featureIdx": 4090,
+    "val": 0.08060000091791153
+},
+{
+    "asin": "B000FS76JK",
+    "featureIdx": 4091,
+    "val": 4.008800029754639
+},
+{
+    "asin": "B000F4U8AI",
+    "featureIdx": 4095,
+    "val": 2.621999979019165
+},
+{
+    "asin": "B000F6UM98",
+    "featureIdx": 4094,
+    "val": 0.6481000185012817
+},
+{
+    "asin": "B000EVOI9E",
+    "featureIdx": 4092,
+    "val": 0.023099999874830246
+},
+{
+    "asin": "B0007XMNPA",
+    "featureIdx": 4087,
+    "val": 2.037400007247925
+},
+{
+    "asin": "B000HEC54I",
+    "featureIdx": 4088,
+    "val": 6.01039981842041
+},
+{
+    "asin": "B000FGQD6Y",
+    "featureIdx": 4094,
+    "val": 0.1907999962568283
+},
+{
+    "asin": "B000F3O8XM",
+    "featureIdx": 4093,
+    "val": 1.0715999603271484
+},
+{
+    "asin": "B000E45EW6",
+    "featureIdx": 4094,
+    "val": 0.5695000290870667
+},
+{
+    "asin": "B000FCJ5BI",
+    "featureIdx": 4094,
+    "val": 1.8243000507354736
+},
+{
+    "asin": "B000GWRI6Q",
+    "featureIdx": 4080,
+    "val": 2.4607999324798584
+},
+{
+    "asin": "B000E8O70C",
+    "featureIdx": 4079,
+    "val": 1.9429999589920044
+},
+{
+    "asin": "B000F41BZY",
+    "featureIdx": 4088,
+    "val": 2.950700044631958
+},
+{
+    "asin": "B000HGKC50",
+    "featureIdx": 4089,
+    "val": 0.7678999900817871
+},
+{
+    "asin": "B000FKTPMY",
+    "featureIdx": 4094,
+    "val": 1.3667000532150269
+},
+{
+    "asin": "B000F44HJ6",
+    "featureIdx": 4077,
+    "val": 3.756700038909912
+},
+{
+    "asin": "B000FXUUBG",
+    "featureIdx": 4091,
+    "val": 0.8062000274658203
+},
+{
+    "asin": "B000I7ZNVQ",
+    "featureIdx": 4095,
+    "val": 4.093599796295166
+},
+{
+    "asin": "B000EWD6V4",
+    "featureIdx": 4094,
+    "val": 0.95660001039505
+},
+{
+    "asin": "B000BO0LA4",
+    "featureIdx": 4077,
+    "val": 1.014799952507019
+},
+{
+    "asin": "B000F877M6",
+    "featureIdx": 4095,
+    "val": 4.371699810028076
+},
+{
+    "asin": "B000FITRW4",
+    "featureIdx": 4079,
+    "val": 0.22030000388622284
+},
+{
+    "asin": "B000BM8O8W",
+    "featureIdx": 4091,
+    "val": 0.4293000102043152
+},
+{
+    "asin": "B000E2AMWA",
+    "featureIdx": 4095,
+    "val": 0.8416000008583069
+},
+{
+    "asin": "B000FNJOCM",
+    "featureIdx": 4095,
+    "val": 0.9860000014305115
+},
+{
+    "asin": "B000FQEAYQ",
+    "featureIdx": 4085,
+    "val": 0.3228999972343445
+},
+{
+    "asin": "B000FIOFP8",
+    "featureIdx": 4088,
+    "val": 6.1596999168396
+},
+{
+    "asin": "B000FENC9M",
+    "featureIdx": 4079,
+    "val": 4.726399898529053
+},
+{
+    "asin": "B000BRFEDU",
+    "featureIdx": 4095,
+    "val": 1.6720000505447388
+},
+{
+    "asin": "B000FNCX8O",
+    "featureIdx": 4086,
+    "val": 1.6121000051498413
+},
+{
+    "asin": "B0007TN66E",
+    "featureIdx": 4094,
+    "val": 3.3469998836517334
+},
+{
+    "asin": "B0007TTTLK",
+    "featureIdx": 4091,
+    "val": 0.09139999747276306
+},
+{
+    "asin": "B000G2DWSO",
+    "featureIdx": 4072,
+    "val": 2.2629001140594482
+},
+{
+    "asin": "B000FFRAZ8",
+    "featureIdx": 4094,
+    "val": 1.5110000371932983
+},
+{
+    "asin": "B0007PO5GS",
+    "featureIdx": 4095,
+    "val": 1.2143000364303589
+},
+{
+    "asin": "B000F1PBGC",
+    "featureIdx": 4095,
+    "val": 2.9865000247955322
+},
+{
+    "asin": "B000EYFROQ",
+    "featureIdx": 4086,
+    "val": 0.9257000088691711
+},
+{
+    "asin": "B000FZ71ES",
+    "featureIdx": 4094,
+    "val": 1.7965999841690063
+},
+{
+    "asin": "B000F52C06",
+    "featureIdx": 4094,
+    "val": 2.796299934387207
+},
+{
+    "asin": "B0009MZTPK",
+    "featureIdx": 4092,
+    "val": 0.7480000257492065
+},
+{
+    "asin": "B000EIGJ1W",
+    "featureIdx": 4093,
+    "val": 3.6538000106811523
+},
+{
+    "asin": "B000F9YDW2",
+    "featureIdx": 4094,
+    "val": 0.8083000183105469
+},
+{
+    "asin": "B000FEKT48",
+    "featureIdx": 4094,
+    "val": 1.1456999778747559
+},
+{
+    "asin": "B000FS4R8I",
+    "featureIdx": 4095,
+    "val": 2.024199962615967
+},
+{
+    "asin": "B000F3S7U2",
+    "featureIdx": 4088,
+    "val": 9.61989974975586
+},
+{
+    "asin": "B000GHUPW0",
+    "featureIdx": 4095,
+    "val": 0.3319999873638153
+},
+{
+    "asin": "B000F0Y1D2",
+    "featureIdx": 4095,
+    "val": 1.3732000589370728
+},
+{
+    "asin": "B000FH4QVC",
+    "featureIdx": 4092,
+    "val": 0.0575999990105629
+},
+{
+    "asin": "B000BQPXOG",
+    "featureIdx": 4095,
+    "val": 1.7553999423980713
+},
+{
+    "asin": "B000FEP59W",
+    "featureIdx": 4095,
+    "val": 1.9835000038146973
+},
+{
+    "asin": "B000EHKPGI",
+    "featureIdx": 4095,
+    "val": 3.8036000728607178
+},
+{
+    "asin": "B000G22HXU",
+    "featureIdx": 4095,
+    "val": 1.2965999841690063
+},
+{
+    "asin": "B000FIAS7C",
+    "featureIdx": 4093,
+    "val": 0.28029999136924744
+},
+{
+    "asin": "B000EVT0CO",
+    "featureIdx": 4094,
+    "val": 1.8050999641418457
+},
+{
+    "asin": "B000ELQHAM",
+    "featureIdx": 4095,
+    "val": 0.066600002348423
+},
+{
+    "asin": "B000FT90PM",
+    "featureIdx": 4094,
+    "val": 0.4756999909877777
+},
+{
+    "asin": "B000FEE6FG",
+    "featureIdx": 4088,
+    "val": 1.500499963760376
+},
+{
+    "asin": "B000GYTOY8",
+    "featureIdx": 4091,
+    "val": 1.5149999856948853
+},
+{
+    "asin": "B000FVAKYA",
+    "featureIdx": 4095,
+    "val": 0.32179999351501465
+},
+{
+    "asin": "B000G9EBKU",
+    "featureIdx": 4079,
+    "val": 2.5202999114990234
+},
+{
+    "asin": "B000BKYTQK",
+    "featureIdx": 4094,
+    "val": 1.6805000305175781
+},
+{
+    "asin": "B000F5JTB6",
+    "featureIdx": 4095,
+    "val": 0.35499998927116394
+},
+{
+    "asin": "B000HBOCKQ",
+    "featureIdx": 4093,
+    "val": 5.050000190734863
+},
+{
+    "asin": "B000EMX3UI",
+    "featureIdx": 4094,
+    "val": 3.9291999340057373
+},
+{
+    "asin": "B000EB5IPW",
+    "featureIdx": 4095,
+    "val": 4.569699764251709
+},
+{
+    "asin": "B000F2SFZA",
+    "featureIdx": 4095,
+    "val": 0.8490999937057495
+},
+{
+    "asin": "B000HHO4IK",
+    "featureIdx": 4095,
+    "val": 2.330899953842163
+},
+{
+    "asin": "B000FSVZ4C",
+    "featureIdx": 4087,
+    "val": 2.33870005607605
+},
+{
+    "asin": "B000HCS1QG",
+    "featureIdx": 4094,
+    "val": 4.250699996948242
+},
+{
+    "asin": "B000G3DY7M",
+    "featureIdx": 4094,
+    "val": 2.559000015258789
+},
+{
+    "asin": "B0007TMO8A",
+    "featureIdx": 4095,
+    "val": 0.8482999801635742
+},
+{
+    "asin": "B000EY612I",
+    "featureIdx": 4085,
+    "val": 1.4016000032424927
+},
+{
+    "asin": "B000FIRX3O",
+    "featureIdx": 4095,
+    "val": 0.5612999796867371
+},
+{
+    "asin": "B000BOG0JK",
+    "featureIdx": 4091,
+    "val": 2.1542999744415283
+},
+{
+    "asin": "B000ARPN1Y",
+    "featureIdx": 4094,
+    "val": 2.1775999069213867
+},
+{
+    "asin": "B000FIT8DM",
+    "featureIdx": 4095,
+    "val": 0.23579999804496765
+},
+{
+    "asin": "B000FS6CX6",
+    "featureIdx": 4092,
+    "val": 0.23849999904632568
+},
+{
+    "asin": "B000GQQL2Y",
+    "featureIdx": 4095,
+    "val": 2.2939000129699707
+},
+{
+    "asin": "B000EX5ETK",
+    "featureIdx": 4095,
+    "val": 2.2465999126434326
+},
+{
+    "asin": "B000G0IPBK",
+    "featureIdx": 4095,
+    "val": 0.9728000164031982
+},
+{
+    "asin": "B000FVCCSW",
+    "featureIdx": 4094,
+    "val": 2.0234999656677246
+},
+{
+    "asin": "B000FODUZI",
+    "featureIdx": 4095,
+    "val": 3.1396000385284424
+},
+{
+    "asin": "B0007RFDX0",
+    "featureIdx": 4079,
+    "val": 0.3700999915599823
+},
+{
+    "asin": "B000C47IKE",
+    "featureIdx": 4092,
+    "val": 2.284600019454956
+},
+{
+    "asin": "B000FGHYO4",
+    "featureIdx": 4088,
+    "val": 2.8659000396728516
+},
+{
+    "asin": "B000FOCHDY",
+    "featureIdx": 4093,
+    "val": 0.6347000002861023
+},
+{
+    "asin": "B000IBSZRQ",
+    "featureIdx": 4093,
+    "val": 0.09780000150203705
+},
+{
+    "asin": "B000BN0WGI",
+    "featureIdx": 4093,
+    "val": 1.054800033569336
+},
+{
+    "asin": "B000EOJIXC",
+    "featureIdx": 4094,
+    "val": 1.2035000324249268
+},
+{
+    "asin": "B000GIPF24",
+    "featureIdx": 4091,
+    "val": 4.219200134277344
+},
+{
+    "asin": "B000F1NDN0",
+    "featureIdx": 4091,
+    "val": 0.2985999882221222
+},
+{
+    "asin": "B000FGWTMG",
+    "featureIdx": 4091,
+    "val": 3.608799934387207
+},
+{
+    "asin": "B000F34HJC",
+    "featureIdx": 4081,
+    "val": 0.8259000182151794
+},
+{
+    "asin": "B000BGUY7C",
+    "featureIdx": 4082,
+    "val": 0.46389999985694885
+},
+{
+    "asin": "B00079PRGQ",
+    "featureIdx": 4095,
+    "val": 2.289900064468384
+},
+{
+    "asin": "B000EGJ2HW",
+    "featureIdx": 4090,
+    "val": 0.4235000014305115
+},
+{
+    "asin": "B000EX8E7O",
+    "featureIdx": 4088,
+    "val": 0.4925000071525574
+},
+{
+    "asin": "B000BVPQHA",
+    "featureIdx": 4095,
+    "val": 2.4316999912261963
+},
+{
+    "asin": "B000EJCX34",
+    "featureIdx": 4091,
+    "val": 0.9840999841690063
+},
+{
+    "asin": "B000FOFY8Y",
+    "featureIdx": 4095,
+    "val": 5.522600173950195
+},
+{
+    "asin": "B000BNRW5M",
+    "featureIdx": 4094,
+    "val": 2.336899995803833
+},
+{
+    "asin": "B0009MZXAG",
+    "featureIdx": 4092,
+    "val": 0.8421000242233276
+},
+{
+    "asin": "B000EQBEB4",
+    "featureIdx": 4093,
+    "val": 0.013299999758601189
+},
+{
+    "asin": "B000FBK1VM",
+    "featureIdx": 4091,
+    "val": 2.0223000049591064
+},
+{
+    "asin": "B000FIRWZ8",
+    "featureIdx": 4095,
+    "val": 4.625400066375732
+},
+{
+    "asin": "B000BJT0OM",
+    "featureIdx": 4093,
+    "val": 2.565000057220459
+},
+{
+    "asin": "B000EXPT04",
+    "featureIdx": 4094,
+    "val": 0.9416999816894531
+},
+{
+    "asin": "B000FVXTIO",
+    "featureIdx": 4093,
+    "val": 0.7401000261306763
+},
+{
+    "asin": "B0007MFCJU",
+    "featureIdx": 4094,
+    "val": 0.02419999986886978
+},
+{
+    "asin": "B000FIVBQE",
+    "featureIdx": 4094,
+    "val": 2.023099899291992
+},
+{
+    "asin": "B000FA2ZBM",
+    "featureIdx": 4095,
+    "val": 0.1826000064611435
+},
+{
+    "asin": "B000BK7FQG",
+    "featureIdx": 4093,
+    "val": 2.8708999156951904
+},
+{
+    "asin": "B000GWF6TM",
+    "featureIdx": 4093,
+    "val": 0.492900013923645
+},
+{
+    "asin": "B000FINGT4",
+    "featureIdx": 4086,
+    "val": 0.1216999962925911
+},
+{
+    "asin": "B000FJ7DTC",
+    "featureIdx": 4077,
+    "val": 2.1579999923706055
+},
+{
+    "asin": "B000FI5GHY",
+    "featureIdx": 4094,
+    "val": 0.4814999997615814
+},
+{
+    "asin": "B000HGI0ZO",
+    "featureIdx": 4094,
+    "val": 2.849299907684326
+},
+{
+    "asin": "B000HR62NU",
+    "featureIdx": 4089,
+    "val": 1.1073999404907227
+},
+{
+    "asin": "B000H7MD92",
+    "featureIdx": 4093,
+    "val": 2.426500082015991
+},
+{
+    "asin": "B000FVE3AC",
+    "featureIdx": 4070,
+    "val": 2.3554000854492188
+},
+{
+    "asin": "B000GHLI3U",
+    "featureIdx": 4095,
+    "val": 1.0563000440597534
+},
+{
+    "asin": "B000FNKU1Q",
+    "featureIdx": 4093,
+    "val": 0.7314000129699707
+},
+{
+    "asin": "B0009MZVO4",
+    "featureIdx": 4083,
+    "val": 0.7847999930381775
+},
+{
+    "asin": "B000FHD7US",
+    "featureIdx": 4095,
+    "val": 0.34220001101493835
+},
+{
+    "asin": "B000F8SCSY",
+    "featureIdx": 4094,
+    "val": 1.9988000392913818
+},
+{
+    "asin": "B000IBL3KW",
+    "featureIdx": 4088,
+    "val": 1.3207000494003296
+},
+{
+    "asin": "B000BRKZYI",
+    "featureIdx": 4093,
+    "val": 3.736999988555908
+},
+{
+    "asin": "B000G3L4QA",
+    "featureIdx": 4095,
+    "val": 1.0526000261306763
+},
+{
+    "asin": "B000GUX8GC",
+    "featureIdx": 4095,
+    "val": 2.4911999702453613
+},
+{
+    "asin": "B000FS3KFY",
+    "featureIdx": 4095,
+    "val": 1.534500002861023
+},
+{
+    "asin": "B000F89EYA",
+    "featureIdx": 4093,
+    "val": 0.050999999046325684
+},
+{
+    "asin": "B000F6WHA0",
+    "featureIdx": 4093,
+    "val": 2.529099941253662
+},
+{
+    "asin": "B0007MYM2I",
+    "featureIdx": 4086,
+    "val": 1.6871999502182007
+},
+{
+    "asin": "B000FDKH14",
+    "featureIdx": 4088,
+    "val": 2.0343000888824463
+},
+{
+    "asin": "B000FAR7TC",
+    "featureIdx": 4095,
+    "val": 4.871699810028076
+},
+{
+    "asin": "B000FA34VM",
+    "featureIdx": 4095,
+    "val": 3.0945000648498535
+},
+{
+    "asin": "B000HDKEFG",
+    "featureIdx": 4090,
+    "val": 0.4230000078678131
+},
+{
+    "asin": "B000EP70CW",
+    "featureIdx": 4094,
+    "val": 0.8203999996185303
+},
+{
+    "asin": "B000EIJI9W",
+    "featureIdx": 4094,
+    "val": 3.7780001163482666
+},
+{
+    "asin": "B000BF3CR2",
+    "featureIdx": 4094,
+    "val": 1.357100009918213
+},
+{
+    "asin": "B000F1NFYW",
+    "featureIdx": 4094,
+    "val": 0.14000000059604645
+},
+{
+    "asin": "B000FB8E20",
+    "featureIdx": 4095,
+    "val": 0.328900009393692
+},
+{
+    "asin": "B0007N52ZS",
+    "featureIdx": 4094,
+    "val": 1.5562000274658203
+},
+{
+    "asin": "B000EW3KK6",
+    "featureIdx": 4079,
+    "val": 6.816699981689453
+},
+{
+    "asin": "B000BFHEBM",
+    "featureIdx": 4095,
+    "val": 1.3243999481201172
+},
+{
+    "asin": "B000F608H4",
+    "featureIdx": 4095,
+    "val": 1.1490999460220337
+},
+{
+    "asin": "B000BH5SY0",
+    "featureIdx": 4090,
+    "val": 0.3393000066280365
+},
+{
+    "asin": "B000ES4WX4",
+    "featureIdx": 4093,
+    "val": 2.636699914932251
+},
+{
+    "asin": "B000FSASLI",
+    "featureIdx": 4094,
+    "val": 1.980299949645996
+},
+{
+    "asin": "B000F3FOR6",
+    "featureIdx": 4094,
+    "val": 0.06419999897480011
+},
+{
+    "asin": "B000FUOW6I",
+    "featureIdx": 4095,
+    "val": 0.5799999833106995
+},
+{
+    "asin": "B000GQXMAI",
+    "featureIdx": 4093,
+    "val": 0.35830000042915344
+},
+{
+    "asin": "B000FNALJ2",
+    "featureIdx": 4095,
+    "val": 1.2702000141143799
+},
+{
+    "asin": "B000FAHJ04",
+    "featureIdx": 4080,
+    "val": 2.150399923324585
+},
+{
+    "asin": "B000FQCOYE",
+    "featureIdx": 4091,
+    "val": 0.4025999903678894
+},
+{
+    "asin": "B000BZL0YE",
+    "featureIdx": 4094,
+    "val": 3.164400100708008
+},
+{
+    "asin": "B000FF8QXI",
+    "featureIdx": 4095,
+    "val": 2.5736000537872314
+},
+{
+    "asin": "B000FGLOIQ",
+    "featureIdx": 4094,
+    "val": 0.5157999992370605
+},
+{
+    "asin": "B0007LNK0O",
+    "featureIdx": 4095,
+    "val": 0.27390000224113464
+},
+{
+    "asin": "B000FGU86U",
+    "featureIdx": 4095,
+    "val": 0.34610000252723694
+},
+{
+    "asin": "B000EBN570",
+    "featureIdx": 4093,
+    "val": 2.862799882888794
+},
+{
+    "asin": "B000F44AIE",
+    "featureIdx": 4093,
+    "val": 2.456199884414673
+},
+{
+    "asin": "B000EY7KQ4",
+    "featureIdx": 4094,
+    "val": 0.029100000858306885
+},
+{
+    "asin": "B000IBD4VI",
+    "featureIdx": 4093,
+    "val": 0.2702000141143799
+},
+{
+    "asin": "B000F02TRC",
+    "featureIdx": 4094,
+    "val": 2.968600034713745
+},
+{
+    "asin": "B000BQNCIA",
+    "featureIdx": 4095,
+    "val": 0.5993000268936157
+},
+{
+    "asin": "B000F5XUFM",
+    "featureIdx": 4091,
+    "val": 0.8865000009536743
+},
+{
+    "asin": "B000FVE2FI",
+    "featureIdx": 4095,
+    "val": 4.649700164794922
+},
+{
+    "asin": "B000FXWX2K",
+    "featureIdx": 4095,
+    "val": 0.9581000208854675
+},
+{
+    "asin": "B0007SUE56",
+    "featureIdx": 4094,
+    "val": 1.1579999923706055
+},
+{
+    "asin": "B000BDEZ8O",
+    "featureIdx": 4094,
+    "val": 0.9627000093460083
+},
+{
+    "asin": "B000BPCGZ6",
+    "featureIdx": 4094,
+    "val": 2.5785999298095703
+},
+{
+    "asin": "B000EX8UX2",
+    "featureIdx": 4077,
+    "val": 1.8351999521255493
+},
+{
+    "asin": "B000BZ5YHI",
+    "featureIdx": 4086,
+    "val": 2.452699899673462
+},
+{
+    "asin": "B000HCURF4",
+    "featureIdx": 4094,
+    "val": 0.5313000082969666
+},
+{
+    "asin": "B000FAJL6E",
+    "featureIdx": 4093,
+    "val": 1.629699945449829
+},
+{
+    "asin": "B000FTVF46",
+    "featureIdx": 4086,
+    "val": 5.141499996185303
+},
+{
+    "asin": "B000ARWNTE",
+    "featureIdx": 4089,
+    "val": 7.115099906921387
+},
+{
+    "asin": "B000FINOL4",
+    "featureIdx": 4095,
+    "val": 0.12489999830722809
+},
+{
+    "asin": "B000G25516",
+    "featureIdx": 4086,
+    "val": 0.47679999470710754
+},
+{
+    "asin": "B0007QRYK6",
+    "featureIdx": 4088,
+    "val": 0.5985999703407288
+},
+{
+    "asin": "B000BPO6VI",
+    "featureIdx": 4086,
+    "val": 0.1770000010728836
+},
+{
+    "asin": "B000FDYM2E",
+    "featureIdx": 4094,
+    "val": 7.97730016708374
+},
+{
+    "asin": "B000EIAL6G",
+    "featureIdx": 4080,
+    "val": 7.642300128936768
+},
+{
+    "asin": "B000BREPIA",
+    "featureIdx": 4095,
+    "val": 2.8104000091552734
+},
+{
+    "asin": "B0007UBL9M",
+    "featureIdx": 4093,
+    "val": 1.6924999952316284
+},
+{
+    "asin": "B0007RTBNI",
+    "featureIdx": 4085,
+    "val": 2.5920000076293945
+},
+{
+    "asin": "B000HKLX4A",
+    "featureIdx": 4081,
+    "val": 2.189199924468994
+},
+{
+    "asin": "B000F62XOU",
+    "featureIdx": 4078,
+    "val": 2.6357998847961426
+},
+{
+    "asin": "B0009PAGRS",
+    "featureIdx": 4093,
+    "val": 1.3453999757766724
+},
+{
+    "asin": "B000F5NL10",
+    "featureIdx": 4093,
+    "val": 1.6799999475479126
+},
+{
+    "asin": "B000EX46EO",
+    "featureIdx": 4091,
+    "val": 1.2553999423980713
+},
+{
+    "asin": "B000BK35EC",
+    "featureIdx": 4087,
+    "val": 2.02810001373291
+},
+{
+    "asin": "B000EI08HI",
+    "featureIdx": 4091,
+    "val": 1.4642000198364258
+},
+{
+    "asin": "B000E4SA5Y",
+    "featureIdx": 4089,
+    "val": 1.6700999736785889
+},
+{
+    "asin": "B000EOWTGU",
+    "featureIdx": 4088,
+    "val": 2.5272998809814453
+},
+{
+    "asin": "B000I5PWDM",
+    "featureIdx": 4086,
+    "val": 1.5090999603271484
+},
+{
+    "asin": "B000FSMZJ6",
+    "featureIdx": 4088,
+    "val": 7.761199951171875
+},
+{
+    "asin": "B000FQ0WBQ",
+    "featureIdx": 4095,
+    "val": 1.1627000570297241
+},
+{
+    "asin": "B000EN6J3K",
+    "featureIdx": 4092,
+    "val": 1.2898000478744507
+},
+{
+    "asin": "B000F5THAE",
+    "featureIdx": 4095,
+    "val": 1.1490999460220337
+},
+{
+    "asin": "B000EY5EDK",
+    "featureIdx": 4094,
+    "val": 0.9452000260353088
+},
+{
+    "asin": "B000FTNXO6",
+    "featureIdx": 4094,
+    "val": 0.10279999673366547
+},
+{
+    "asin": "B000BK8I26",
+    "featureIdx": 4078,
+    "val": 0.3237999975681305
+},
+{
+    "asin": "B000FIURC8",
+    "featureIdx": 4091,
+    "val": 1.9909000396728516
+},
+{
+    "asin": "B000FCAVKM",
+    "featureIdx": 4090,
+    "val": 0.9050999879837036
+},
+{
+    "asin": "B000F2HSS0",
+    "featureIdx": 4086,
+    "val": 2.9639999866485596
+},
+{
+    "asin": "B000ESM4CK",
+    "featureIdx": 4095,
+    "val": 3.674299955368042
+},
+{
+    "asin": "B000EP8BBG",
+    "featureIdx": 4094,
+    "val": 5.367300033569336
+},
+{
+    "asin": "B000GT7LIY",
+    "featureIdx": 4094,
+    "val": 0.08780000358819962
+},
+{
+    "asin": "B0007PNA6O",
+    "featureIdx": 4094,
+    "val": 0.5425000190734863
+},
+{
+    "asin": "B000F2254M",
+    "featureIdx": 4079,
+    "val": 0.1673000007867813
+},
+{
+    "asin": "B000BK265Q",
+    "featureIdx": 4094,
+    "val": 1.3367999792099
+},
+{
+    "asin": "B0009PJIZE",
+    "featureIdx": 4070,
+    "val": 10.593099594116211
+},
+{
+    "asin": "B000EWFN5Q",
+    "featureIdx": 4095,
+    "val": 2.005000114440918
+},
+{
+    "asin": "B000FL1DYG",
+    "featureIdx": 4093,
+    "val": 3.422600030899048
+},
+{
+    "asin": "B000GIUWMW",
+    "featureIdx": 4094,
+    "val": 0.520799994468689
+},
+{
+    "asin": "B0007CKN1C",
+    "featureIdx": 4093,
+    "val": 1.0492000579833984
+},
+{
+    "asin": "B000EI066Q",
+    "featureIdx": 4093,
+    "val": 2.300100088119507
+},
+{
+    "asin": "B000EOJJWM",
+    "featureIdx": 4095,
+    "val": 5.17609977722168
+},
+{
+    "asin": "B000EY1TO8",
+    "featureIdx": 4095,
+    "val": 1.667799949645996
+},
+{
+    "asin": "B000F1S0AQ",
+    "featureIdx": 4091,
+    "val": 1.6543999910354614
+},
+{
+    "asin": "B000F52GZC",
+    "featureIdx": 4094,
+    "val": 2.4960999488830566
+},
+{
+    "asin": "B000G17T7K",
+    "featureIdx": 4095,
+    "val": 1.732200026512146
+},
+{
+    "asin": "B000FENGV6",
+    "featureIdx": 4088,
+    "val": 1.2029999494552612
+},
+{
+    "asin": "B000ETW4CO",
+    "featureIdx": 4094,
+    "val": 1.8111000061035156
+},
+{
+    "asin": "B0007US6CC",
+    "featureIdx": 4094,
+    "val": 1.5047999620437622
+},
+{
+    "asin": "B000F99DKE",
+    "featureIdx": 4095,
+    "val": 4.411799907684326
+},
+{
+    "asin": "B000EMDAXS",
+    "featureIdx": 4093,
+    "val": 1.0770000219345093
+},
+{
+    "asin": "B000HGBDDU",
+    "featureIdx": 4088,
+    "val": 2.219099998474121
+},
+{
+    "asin": "B000FHAXG4",
+    "featureIdx": 4095,
+    "val": 1.3391000032424927
+},
+{
+    "asin": "B000FPQ040",
+    "featureIdx": 4094,
+    "val": 2.6598000526428223
+},
+{
+    "asin": "B000BHB5RY",
+    "featureIdx": 4094,
+    "val": 4.002299785614014
+},
+{
+    "asin": "B000HDSNBI",
+    "featureIdx": 4090,
+    "val": 1.1750999689102173
+},
+{
+    "asin": "B000BP6U44",
+    "featureIdx": 4093,
+    "val": 0.15710000693798065
+},
+{
+    "asin": "B000BNQBM2",
+    "featureIdx": 4094,
+    "val": 4.08650016784668
+},
+{
+    "asin": "B000FGVTK4",
+    "featureIdx": 4094,
+    "val": 1.972100019454956
+},
+{
+    "asin": "B000FPD0P2",
+    "featureIdx": 4091,
+    "val": 0.5461999773979187
+},
+{
+    "asin": "B000FFANPC",
+    "featureIdx": 4094,
+    "val": 2.6233999729156494
+},
+{
+    "asin": "B000GQ1N5E",
+    "featureIdx": 4086,
+    "val": 0.6711999773979187
+},
+{
+    "asin": "B0007IR4TK",
+    "featureIdx": 4093,
+    "val": 2.0320000648498535
+},
+{
+    "asin": "B000BP6JFO",
+    "featureIdx": 4094,
+    "val": 0.7831000089645386
+},
+{
+    "asin": "B000FIP2ZK",
+    "featureIdx": 4095,
+    "val": 2.2028000354766846
+},
+{
+    "asin": "B000FVASKQ",
+    "featureIdx": 4095,
+    "val": 1.6065000295639038
+},
+{
+    "asin": "B000FFC2I8",
+    "featureIdx": 4068,
+    "val": 0.271699994802475
+},
+{
+    "asin": "B000EJELBG",
+    "featureIdx": 4093,
+    "val": 3.6530001163482666
+},
+{
+    "asin": "B000EYNQ7Q",
+    "featureIdx": 4090,
+    "val": 3.3773999214172363
+},
+{
+    "asin": "B000G7V46G",
+    "featureIdx": 4095,
+    "val": 0.5145999789237976
+},
+{
+    "asin": "B000FHFII2",
+    "featureIdx": 4089,
+    "val": 3.961400032043457
+},
+{
+    "asin": "B000FOZW7M",
+    "featureIdx": 4094,
+    "val": 2.1071999073028564
+},
+{
+    "asin": "B0007V8AL8",
+    "featureIdx": 4088,
+    "val": 4.565999984741211
+},
+{
+    "asin": "B000FAFOQA",
+    "featureIdx": 4091,
+    "val": 2.0248000621795654
+},
+{
+    "asin": "B000BP7A0W",
+    "featureIdx": 4088,
+    "val": 8.392800331115723
+},
+{
+    "asin": "B000FRUEOU",
+    "featureIdx": 4089,
+    "val": 2.325900077819824
+},
+{
+    "asin": "B000FPVUHM",
+    "featureIdx": 4095,
+    "val": 4.220699787139893
+},
+{
+    "asin": "B0007RA7DG",
+    "featureIdx": 4095,
+    "val": 5.6168999671936035
+},
+{
+    "asin": "B000FTPDS0",
+    "featureIdx": 4072,
+    "val": 3.742500066757202
+},
+{
+    "asin": "B000EQVZ6S",
+    "featureIdx": 4088,
+    "val": 0.6643999814987183
+},
+{
+    "asin": "B000FPKTL0",
+    "featureIdx": 4095,
+    "val": 4.817500114440918
+},
+{
+    "asin": "B000FDU9GM",
+    "featureIdx": 4080,
+    "val": 2.4707000255584717
+},
+{
+    "asin": "B000FTDI00",
+    "featureIdx": 4086,
+    "val": 0.39719998836517334
+},
+{
+    "asin": "B000BPZ5UO",
+    "featureIdx": 4086,
+    "val": 1.6109000444412231
+},
+{
+    "asin": "B000EN0GSO",
+    "featureIdx": 4093,
+    "val": 1.0478999614715576
+},
+{
+    "asin": "B0007YAM2A",
+    "featureIdx": 4095,
+    "val": 0.29789999127388
+},
+{
+    "asin": "B0007P6FWK",
+    "featureIdx": 4095,
+    "val": 7.380899906158447
+},
+{
+    "asin": "B0007T64VI",
+    "featureIdx": 4091,
+    "val": 0.6554999947547913
+},
+{
+    "asin": "B000FXSQ2Q",
+    "featureIdx": 4093,
+    "val": 8.517399787902832
+},
+{
+    "asin": "B000ECNE6G",
+    "featureIdx": 4094,
+    "val": 3.678299903869629
+},
+{
+    "asin": "B000FGU8VU",
+    "featureIdx": 4094,
+    "val": 5.360099792480469
+},
+{
+    "asin": "B000EYBIJE",
+    "featureIdx": 4095,
+    "val": 0.018200000748038292
+},
+{
+    "asin": "B000BNXE36",
+    "featureIdx": 4094,
+    "val": 1.69350004196167
+},
+{
+    "asin": "B000FS6KPQ",
+    "featureIdx": 4095,
+    "val": 1.534500002861023
+},
+{
+    "asin": "B000F4OZ8Y",
+    "featureIdx": 4094,
+    "val": 1.1448999643325806
+},
+{
+    "asin": "B000BWFQT2",
+    "featureIdx": 4093,
+    "val": 0.4171999990940094
+},
+{
+    "asin": "B000F7T1M6",
+    "featureIdx": 4090,
+    "val": 1.4955999851226807
+},
+{
+    "asin": "B000FGRTNK",
+    "featureIdx": 4091,
+    "val": 2.705399990081787
+},
+{
+    "asin": "B000FLCZ5M",
+    "featureIdx": 4095,
+    "val": 0.7416999936103821
+},
+{
+    "asin": "B000F4BZMS",
+    "featureIdx": 4092,
+    "val": 0.19539999961853027
+},
+{
+    "asin": "B000F2R5NS",
+    "featureIdx": 4086,
+    "val": 4.62060022354126
+},
+{
+    "asin": "B000FDD78Y",
+    "featureIdx": 4087,
+    "val": 0.19040000438690186
+},
+{
+    "asin": "B000F5K1FE",
+    "featureIdx": 4094,
+    "val": 3.57450008392334
+},
+{
+    "asin": "B000F5W6KM",
+    "featureIdx": 4093,
+    "val": 0.1062999963760376
+},
+{
+    "asin": "B000BQSZBY",
+    "featureIdx": 4093,
+    "val": 0.7754999995231628
+},
+{
+    "asin": "B000BNLW1M",
+    "featureIdx": 4094,
+    "val": 2.9094998836517334
+},
+{
+    "asin": "B000F7189K",
+    "featureIdx": 4093,
+    "val": 4.48390007019043
+},
+{
+    "asin": "B0007IFQFE",
+    "featureIdx": 4095,
+    "val": 5.282100200653076
+},
+{
+    "asin": "B0007P3NKC",
+    "featureIdx": 4085,
+    "val": 1.3711999654769897
+},
+{
+    "asin": "B0007QCVGI",
+    "featureIdx": 4090,
+    "val": 0.715399980545044
+},
+{
+    "asin": "B000FON6U2",
+    "featureIdx": 4095,
+    "val": 2.9173998832702637
+},
+{
+    "asin": "B000FBMFZC",
+    "featureIdx": 4091,
+    "val": 0.1096000000834465
+},
+{
+    "asin": "B0007P4BFS",
+    "featureIdx": 4087,
+    "val": 4.1880998611450195
+},
+{
+    "asin": "B000FHCBLE",
+    "featureIdx": 4091,
+    "val": 0.47290000319480896
+},
+{
+    "asin": "B0007TB2QK",
+    "featureIdx": 4090,
+    "val": 2.4862000942230225
+},
+{
+    "asin": "B000FDKYDK",
+    "featureIdx": 4093,
+    "val": 0.6324999928474426
+},
+{
+    "asin": "B000EQTZ0G",
+    "featureIdx": 4081,
+    "val": 0.8158000111579895
+},
+{
+    "asin": "B000FS42QU",
+    "featureIdx": 4090,
+    "val": 1.573199987411499
+},
+{
+    "asin": "B000F08GKG",
+    "featureIdx": 4087,
+    "val": 0.49309998750686646
+},
+{
+    "asin": "B0007PQO76",
+    "featureIdx": 4095,
+    "val": 2.034600019454956
+},
+{
+    "asin": "B000F6WOJY",
+    "featureIdx": 4095,
+    "val": 1.214400053024292
+},
+{
+    "asin": "B000FPBXQ0",
+    "featureIdx": 4087,
+    "val": 0.7831000089645386
+},
+{
+    "asin": "B000I6K0QU",
+    "featureIdx": 4094,
+    "val": 8.10990047454834
+},
+{
+    "asin": "B000G0JEDI",
+    "featureIdx": 4094,
+    "val": 0.010400000028312206
+},
+{
+    "asin": "B000EPCOKU",
+    "featureIdx": 4094,
+    "val": 1.7853000164031982
+},
+{
+    "asin": "B0007KLB6K",
+    "featureIdx": 4093,
+    "val": 3.0813000202178955
+},
+{
+    "asin": "B000GTPJV0",
+    "featureIdx": 4092,
+    "val": 0.7879999876022339
+},
+{
+    "asin": "B000IBNKAS",
+    "featureIdx": 4094,
+    "val": 0.5033000111579895
+},
+{
+    "asin": "B0007MXZHQ",
+    "featureIdx": 4094,
+    "val": 0.18150000274181366
+},
+{
+    "asin": "B000F5WWAG",
+    "featureIdx": 4094,
+    "val": 2.1607000827789307
+},
+{
+    "asin": "B000BQ8500",
+    "featureIdx": 4094,
+    "val": 1.878600001335144
+},
+{
+    "asin": "B000G1VB0G",
+    "featureIdx": 4094,
+    "val": 2.9091999530792236
+},
+{
+    "asin": "B000GX8TBS",
+    "featureIdx": 4095,
+    "val": 2.0617001056671143
+},
+{
+    "asin": "B000BDIQPW",
+    "featureIdx": 4072,
+    "val": 0.12639999389648438
+},
+{
+    "asin": "B000F7SWNU",
+    "featureIdx": 4094,
+    "val": 2.5806000232696533
+},
+{
+    "asin": "B000FAHGCK",
+    "featureIdx": 4094,
+    "val": 1.6721999645233154
+},
+{
+    "asin": "B000F8L6I2",
+    "featureIdx": 4094,
+    "val": 0.8802000284194946
+},
+{
+    "asin": "B0009PC1MG",
+    "featureIdx": 4086,
+    "val": 0.8281000256538391
+},
+{
+    "asin": "B000FS43XC",
+    "featureIdx": 4094,
+    "val": 4.327300071716309
+},
+{
+    "asin": "B000EDMFNS",
+    "featureIdx": 4094,
+    "val": 0.650600016117096
+},
+{
+    "asin": "B000BME66G",
+    "featureIdx": 4068,
+    "val": 3.4267001152038574
+},
+{
+    "asin": "B000HKB7I2",
+    "featureIdx": 4095,
+    "val": 3.8445000648498535
+},
+{
+    "asin": "B000I6388W",
+    "featureIdx": 4091,
+    "val": 3.5534000396728516
+},
+{
+    "asin": "B000FOP2XG",
+    "featureIdx": 4094,
+    "val": 5.033899784088135
+},
+{
+    "asin": "B000FJKJ1Q",
+    "featureIdx": 4086,
+    "val": 4.088900089263916
+},
+{
+    "asin": "B00076MHZI",
+    "featureIdx": 4095,
+    "val": 4.384099960327148
+},
+{
+    "asin": "B000HNUMPS",
+    "featureIdx": 4086,
+    "val": 0.715499997138977
+},
+{
+    "asin": "B000F0XSQI",
+    "featureIdx": 4086,
+    "val": 3.165299892425537
+},
+{
+    "asin": "B000FQCOOO",
+    "featureIdx": 4087,
+    "val": 0.07119999825954437
+},
+{
+    "asin": "B000FGVY8G",
+    "featureIdx": 4094,
+    "val": 4.472099781036377
+},
+{
+    "asin": "B000FT50XS",
+    "featureIdx": 4079,
+    "val": 0.6029000282287598
+},
+{
+    "asin": "B000F6UVK8",
+    "featureIdx": 4094,
+    "val": 3.2945001125335693
+},
+{
+    "asin": "B000FDY8UA",
+    "featureIdx": 4086,
+    "val": 2.166800022125244
+},
+{
+    "asin": "B0007NIEGW",
+    "featureIdx": 4070,
+    "val": 3.748500108718872
+},
+{
+    "asin": "B0007QN644",
+    "featureIdx": 4089,
+    "val": 0.35749998688697815
+},
+{
+    "asin": "B000FRSDJI",
+    "featureIdx": 4094,
+    "val": 2.6243999004364014
+},
+{
+    "asin": "B000EW9ZB4",
+    "featureIdx": 4086,
+    "val": 1.4580999612808228
+},
+{
+    "asin": "B000F3VA0G",
+    "featureIdx": 4072,
+    "val": 3.9463000297546387
+},
+{
+    "asin": "B000H703XK",
+    "featureIdx": 4095,
+    "val": 2.2193000316619873
+},
+{
+    "asin": "B000EZXYPE",
+    "featureIdx": 4094,
+    "val": 3.24780011177063
+},
+{
+    "asin": "B000FNROXS",
+    "featureIdx": 4087,
+    "val": 6.248600006103516
+},
+{
+    "asin": "B000ETXR4I",
+    "featureIdx": 4094,
+    "val": 1.8030999898910522
+},
+{
+    "asin": "B000FLIAYM",
+    "featureIdx": 4089,
+    "val": 1.007200002670288
+},
+{
+    "asin": "B000FCBMW8",
+    "featureIdx": 4095,
+    "val": 0.5629000067710876
+},
+{
+    "asin": "B000FBLPNK",
+    "featureIdx": 4091,
+    "val": 3.425800085067749
+},
+{
+    "asin": "B000BH2B04",
+    "featureIdx": 4094,
+    "val": 2.5703001022338867
+},
+{
+    "asin": "B000FLJNLQ",
+    "featureIdx": 4093,
+    "val": 0.5397999882698059
+},
+{
+    "asin": "B000FGO8V6",
+    "featureIdx": 4094,
+    "val": 0.019700000062584877
+},
+{
+    "asin": "B000GHK7Y6",
+    "featureIdx": 4094,
+    "val": 1.3916000127792358
+},
+{
+    "asin": "B000FW7UJM",
+    "featureIdx": 4095,
+    "val": 1.7208000421524048
+},
+{
+    "asin": "B000FDSKX6",
+    "featureIdx": 4087,
+    "val": 0.5841000080108643
+},
+{
+    "asin": "B000EIO2WA",
+    "featureIdx": 4094,
+    "val": 0.019999999552965164
+},
+{
+    "asin": "B000G20I1I",
+    "featureIdx": 4090,
+    "val": 3.2228000164031982
+},
+{
+    "asin": "B0007IQFMW",
+    "featureIdx": 4085,
+    "val": 0.25699999928474426
+},
+{
+    "asin": "B000BNSZRQ",
+    "featureIdx": 4091,
+    "val": 0.7329000234603882
+},
+{
+    "asin": "B000G0F8XI",
+    "featureIdx": 4094,
+    "val": 2.2237000465393066
+},
+{
+    "asin": "B000EYHI9S",
+    "featureIdx": 4079,
+    "val": 3.2112998962402344
+},
+{
+    "asin": "B000FG8N3K",
+    "featureIdx": 4093,
+    "val": 2.727799892425537
+},
+{
+    "asin": "B000F1FYBY",
+    "featureIdx": 4095,
+    "val": 4.573599815368652
+},
+{
+    "asin": "B000FCECZC",
+    "featureIdx": 4093,
+    "val": 0.2939999997615814
+},
+{
+    "asin": "B000GX8W42",
+    "featureIdx": 4094,
+    "val": 1.2137000560760498
+},
+{
+    "asin": "B000FJGCO4",
+    "featureIdx": 4095,
+    "val": 0.8396999835968018
+},
+{
+    "asin": "B000EYBC54",
+    "featureIdx": 4093,
+    "val": 0.4056999981403351
+},
+{
+    "asin": "B0009WH0FM",
+    "featureIdx": 4095,
+    "val": 0.9261999726295471
+},
+{
+    "asin": "B000F8XP22",
+    "featureIdx": 4095,
+    "val": 1.8983999490737915
+},
+{
+    "asin": "B000FDVUEM",
+    "featureIdx": 4086,
+    "val": 1.3849999904632568
+},
+{
+    "asin": "B000FJ6JJW",
+    "featureIdx": 4088,
+    "val": 0.9483000040054321
+},
+{
+    "asin": "B000BMTHWE",
+    "featureIdx": 4095,
+    "val": 3.7878000736236572
+},
+{
+    "asin": "B000FINQXK",
+    "featureIdx": 4094,
+    "val": 2.2279999256134033
+},
+{
+    "asin": "B000G1Q566",
+    "featureIdx": 4095,
+    "val": 1.8837000131607056
+},
+{
+    "asin": "B000FW1X7M",
+    "featureIdx": 4095,
+    "val": 3.926500082015991
+},
+{
+    "asin": "B0007WE9F8",
+    "featureIdx": 4094,
+    "val": 0.8086000084877014
+},
+{
+    "asin": "B0007KN8SO",
+    "featureIdx": 4095,
+    "val": 1.8483999967575073
+},
+{
+    "asin": "B000FIDF22",
+    "featureIdx": 4095,
+    "val": 2.6324000358581543
+},
+{
+    "asin": "B000F38D10",
+    "featureIdx": 4091,
+    "val": 0.042500000447034836
+},
+{
+    "asin": "B000HDBC2U",
+    "featureIdx": 4087,
+    "val": 3.0311999320983887
+},
+{
+    "asin": "B000F6UE7S",
+    "featureIdx": 4081,
+    "val": 1.4486000537872314
+},
+{
+    "asin": "B000FNDEHS",
+    "featureIdx": 4094,
+    "val": 1.6208000183105469
+},
+{
+    "asin": "B000FTZJES",
+    "featureIdx": 4087,
+    "val": 2.448899984359741
+},
+{
+    "asin": "B000EXNWXK",
+    "featureIdx": 4094,
+    "val": 0.6498000025749207
+},
+{
+    "asin": "B000FSDAIG",
+    "featureIdx": 4094,
+    "val": 1.444599986076355
+},
+{
+    "asin": "B000FGRJ3U",
+    "featureIdx": 4095,
+    "val": 0.40790000557899475
+},
+{
+    "asin": "B000FELEM4",
+    "featureIdx": 4091,
+    "val": 3.5648000240325928
+},
+{
+    "asin": "B000B0NOVG",
+    "featureIdx": 4095,
+    "val": 2.798099994659424
+},
+{
+    "asin": "B000FIS6O4",
+    "featureIdx": 4094,
+    "val": 2.5260000228881836
+},
+{
+    "asin": "B000BPWVNI",
+    "featureIdx": 4086,
+    "val": 3.7578001022338867
+},
+{
+    "asin": "B000HAT5T0",
+    "featureIdx": 4079,
+    "val": 3.4458999633789062
+},
+{
+    "asin": "B000F4SOW2",
+    "featureIdx": 4094,
+    "val": 4.1981000900268555
+},
+{
+    "asin": "B000B12YZM",
+    "featureIdx": 4095,
+    "val": 4.515399932861328
+},
+{
+    "asin": "B000FSHILG",
+    "featureIdx": 4093,
+    "val": 0.7583000063896179
+},
+{
+    "asin": "B0007LLM9K",
+    "featureIdx": 4095,
+    "val": 0.07989999651908875
+},
+{
+    "asin": "B000F741VW",
+    "featureIdx": 4093,
+    "val": 0.3702999949455261
+},
+{
+    "asin": "B000FP79H2",
+    "featureIdx": 4080,
+    "val": 3.098099946975708
+},
+{
+    "asin": "B000FVCHA0",
+    "featureIdx": 4094,
+    "val": 1.8496999740600586
+},
+{
+    "asin": "B000FIJJHC",
+    "featureIdx": 4093,
+    "val": 3.3850998878479004
+},
+{
+    "asin": "B000FBTXZ2",
+    "featureIdx": 4093,
+    "val": 0.6061000227928162
+},
+{
+    "asin": "B000FFLV8U",
+    "featureIdx": 4081,
+    "val": 1.4758000373840332
+},
+{
+    "asin": "B000FA0ZDC",
+    "featureIdx": 4093,
+    "val": 1.045300006866455
+},
+{
+    "asin": "B000BI3YI6",
+    "featureIdx": 4093,
+    "val": 0.7526999711990356
+},
+{
+    "asin": "B000F0J592",
+    "featureIdx": 4090,
+    "val": 2.530600070953369
+},
+{
+    "asin": "B000EKFD9E",
+    "featureIdx": 4094,
+    "val": 2.1224000453948975
+},
+{
+    "asin": "B000GWJALC",
+    "featureIdx": 4079,
+    "val": 4.810100078582764
+},
+{
+    "asin": "B000EBLRBG",
+    "featureIdx": 4095,
+    "val": 0.3440999984741211
+},
+{
+    "asin": "B000792JZ8",
+    "featureIdx": 4090,
+    "val": 2.2314999103546143
+},
+{
+    "asin": "B000BT3XPY",
+    "featureIdx": 4081,
+    "val": 0.02449999935925007
+},
+{
+    "asin": "B000F5K1FO",
+    "featureIdx": 4094,
+    "val": 3.57450008392334
+},
+{
+    "asin": "B000EXOJIM",
+    "featureIdx": 4088,
+    "val": 0.42500001192092896
+},
+{
+    "asin": "B0007SN2QO",
+    "featureIdx": 4094,
+    "val": 2.886199951171875
+},
+{
+    "asin": "B000FUA18Q",
+    "featureIdx": 4079,
+    "val": 1.2871999740600586
+},
+{
+    "asin": "B000FPILB0",
+    "featureIdx": 4089,
+    "val": 4.072299957275391
+},
+{
+    "asin": "B000GPU3RO",
+    "featureIdx": 4086,
+    "val": 5.070700168609619
+},
+{
+    "asin": "B000DZXYUU",
+    "featureIdx": 4095,
+    "val": 0.9650999903678894
+},
+{
+    "asin": "B000F2HSMG",
+    "featureIdx": 4088,
+    "val": 10.938599586486816
+},
+{
+    "asin": "B000HBYVWK",
+    "featureIdx": 4090,
+    "val": 0.19949999451637268
+},
+{
+    "asin": "B000FIPEXA",
+    "featureIdx": 4088,
+    "val": 9.24269962310791
+},
+{
+    "asin": "B000EELMAO",
+    "featureIdx": 4086,
+    "val": 0.8129000067710876
+},
+{
+    "asin": "B000FZUKZU",
+    "featureIdx": 4079,
+    "val": 1.9615000486373901
+},
+{
+    "asin": "B000FIRI84",
+    "featureIdx": 4095,
+    "val": 2.103800058364868
+},
+{
+    "asin": "B000F3S7W0",
+    "featureIdx": 4095,
+    "val": 2.5055999755859375
+},
+{
+    "asin": "B000G26ZEM",
+    "featureIdx": 4086,
+    "val": 3.3008999824523926
+},
+{
+    "asin": "B000FINOKU",
+    "featureIdx": 4090,
+    "val": 3.09089994430542
+},
+{
+    "asin": "B000FSEIB4",
+    "featureIdx": 4089,
+    "val": 2.7927000522613525
+},
+{
+    "asin": "B0007TRFB6",
+    "featureIdx": 4095,
+    "val": 0.505299985408783
+},
+{
+    "asin": "B000FDT5HQ",
+    "featureIdx": 4088,
+    "val": 1.7309000492095947
+},
+{
+    "asin": "B000BNSGOI",
+    "featureIdx": 4093,
+    "val": 0.49380001425743103
+},
+{
+    "asin": "B000F44B5Q",
+    "featureIdx": 4095,
+    "val": 0.6384999752044678
+},
+{
+    "asin": "B000FCOS8I",
+    "featureIdx": 4095,
+    "val": 0.5065000057220459
+},
+{
+    "asin": "B000F19R6W",
+    "featureIdx": 4095,
+    "val": 2.9681999683380127
+},
+{
+    "asin": "B000FIWU8W",
+    "featureIdx": 4094,
+    "val": 0.597000002861023
+},
+{
+    "asin": "B000G60ZU8",
+    "featureIdx": 4079,
+    "val": 0.12639999389648438
+},
+{
+    "asin": "B000EOWT3S",
+    "featureIdx": 4088,
+    "val": 0.2535000145435333
+},
+{
+    "asin": "B000FVZXUQ",
+    "featureIdx": 4094,
+    "val": 1.114300012588501
+},
+{
+    "asin": "B0007KTGM6",
+    "featureIdx": 4088,
+    "val": 5.288899898529053
+},
+{
+    "asin": "B000BT426S",
+    "featureIdx": 4089,
+    "val": 3.0599000453948975
+},
+{
+    "asin": "B000ENN5SM",
+    "featureIdx": 4094,
+    "val": 2.336199998855591
+},
+{
+    "asin": "B000EX2TIO",
+    "featureIdx": 4089,
+    "val": 3.626699924468994
+},
+{
+    "asin": "B000FP957O",
+    "featureIdx": 4095,
+    "val": 0.16429999470710754
+},
+{
+    "asin": "B0007N53MU",
+    "featureIdx": 4093,
+    "val": 0.21580000221729279
+},
+{
+    "asin": "B0007PE982",
+    "featureIdx": 4094,
+    "val": 0.1673000007867813
+},
+{
+    "asin": "B000GVVLQ0",
+    "featureIdx": 4092,
+    "val": 0.5270000100135803
+},
+{
+    "asin": "B000EJD16W",
+    "featureIdx": 4095,
+    "val": 4.3881001472473145
+},
+{
+    "asin": "B000IBVZWI",
+    "featureIdx": 4090,
+    "val": 1.6907999515533447
+},
+{
+    "asin": "B000FAWTS6",
+    "featureIdx": 4094,
+    "val": 1.5241999626159668
+},
+{
+    "asin": "B000F3Q1H8",
+    "featureIdx": 4095,
+    "val": 0.8452000021934509
+},
+{
+    "asin": "B000FERBSA",
+    "featureIdx": 4079,
+    "val": 1.7247999906539917
+},
+{
+    "asin": "B000EDPS00",
+    "featureIdx": 4094,
+    "val": 3.7372000217437744
+},
+{
+    "asin": "B000F6311Y",
+    "featureIdx": 4091,
+    "val": 3.0869998931884766
+},
+{
+    "asin": "B000HC0FU6",
+    "featureIdx": 4094,
+    "val": 2.3004000186920166
+},
+{
+    "asin": "B000FHGU7K",
+    "featureIdx": 4087,
+    "val": 1.4880000352859497
+},
+{
+    "asin": "B000FGD63C",
+    "featureIdx": 4095,
+    "val": 1.6651999950408936
+},
+{
+    "asin": "B000F72CCC",
+    "featureIdx": 4081,
+    "val": 3.2002999782562256
+},
+{
+    "asin": "B000EXNC1M",
+    "featureIdx": 4095,
+    "val": 2.5541000366210938
+},
+{
+    "asin": "B000EZVUCS",
+    "featureIdx": 4093,
+    "val": 0.19280000030994415
+},
+{
+    "asin": "B000EUIFJ4",
+    "featureIdx": 4089,
+    "val": 0.9161999821662903
+},
+{
+    "asin": "B000BY0O8I",
+    "featureIdx": 4094,
+    "val": 3.214200019836426
+},
+{
+    "asin": "B0007UQKNY",
+    "featureIdx": 4095,
+    "val": 2.4697999954223633
+},
+{
+    "asin": "B000FVC5NE",
+    "featureIdx": 4088,
+    "val": 1.3265999555587769
+},
+{
+    "asin": "B000FTCNVK",
+    "featureIdx": 4088,
+    "val": 2.810699939727783
+},
+{
+    "asin": "B000G24XYQ",
+    "featureIdx": 4094,
+    "val": 1.3377000093460083
+},
+{
+    "asin": "B000B5MISG",
+    "featureIdx": 4094,
+    "val": 3.678299903869629
+},
+{
+    "asin": "B000EWVP3U",
+    "featureIdx": 4090,
+    "val": 0.7077999711036682
+},
+{
+    "asin": "B000FIKCPA",
+    "featureIdx": 4095,
+    "val": 4.5671000480651855
+},
+{
+    "asin": "B000E4XH7A",
+    "featureIdx": 4094,
+    "val": 0.25040000677108765
+},
+{
+    "asin": "B000F5X6QK",
+    "featureIdx": 4095,
+    "val": 0.728600025177002
+},
+{
+    "asin": "B000E8F22O",
+    "featureIdx": 4090,
+    "val": 1.2669999599456787
+},
+{
+    "asin": "B000FNQ40W",
+    "featureIdx": 4079,
+    "val": 0.31439998745918274
+},
+{
+    "asin": "B000F4PDGC",
+    "featureIdx": 4090,
+    "val": 0.09070000052452087
+},
+{
+    "asin": "B000F0XVP6",
+    "featureIdx": 4072,
+    "val": 4.084099769592285
+},
+{
+    "asin": "B000BUKJVE",
+    "featureIdx": 4088,
+    "val": 0.49630001187324524
+},
+{
+    "asin": "B000F64SR0",
+    "featureIdx": 4094,
+    "val": 2.0645999908447266
+},
+{
+    "asin": "B000FQ0WC0",
+    "featureIdx": 4087,
+    "val": 0.1859000027179718
+},
+{
+    "asin": "B000EJELES",
+    "featureIdx": 4094,
+    "val": 0.021900000050663948
+},
+{
+    "asin": "B000B2Z6QU",
+    "featureIdx": 4094,
+    "val": 1.6756999492645264
+},
+{
+    "asin": "B0009VRPVC",
+    "featureIdx": 4086,
+    "val": 3.0664000511169434
+},
+{
+    "asin": "B000FYTIZY",
+    "featureIdx": 4095,
+    "val": 0.4772000014781952
+},
+{
+    "asin": "B000G2IP04",
+    "featureIdx": 4070,
+    "val": 2.251699924468994
+},
+{
+    "asin": "B000F5M9QS",
+    "featureIdx": 4093,
+    "val": 1.0305999517440796
+},
+{
+    "asin": "B000FIP3J0",
+    "featureIdx": 4094,
+    "val": 2.0102999210357666
+},
+{
+    "asin": "B000G7CHQM",
+    "featureIdx": 4086,
+    "val": 4.526700019836426
+},
+{
+    "asin": "B000FGVX0U",
+    "featureIdx": 4094,
+    "val": 1.924299955368042
+},
+{
+    "asin": "B000G26Z6U",
+    "featureIdx": 4086,
+    "val": 0.7250000238418579
+},
+{
+    "asin": "B000FAK1AE",
+    "featureIdx": 4095,
+    "val": 1.5858999490737915
+},
+{
+    "asin": "B000FIS31A",
+    "featureIdx": 4095,
+    "val": 4.569200038909912
+},
+{
+    "asin": "B000FNGL3M",
+    "featureIdx": 4095,
+    "val": 4.002500057220459
+},
+{
+    "asin": "B000G1NW76",
+    "featureIdx": 4095,
+    "val": 1.332800030708313
+},
+{
+    "asin": "B000FQ0WCA",
+    "featureIdx": 4090,
+    "val": 0.3059000074863434
+},
+{
+    "asin": "B000F7XX34",
+    "featureIdx": 4090,
+    "val": 4.652100086212158
+},
+{
+    "asin": "B000FK8XTU",
+    "featureIdx": 4090,
+    "val": 0.3434000015258789
+},
+{
+    "asin": "B000FBZLMG",
+    "featureIdx": 4091,
+    "val": 0.009700000286102295
+},
+{
+    "asin": "B000FE7F90",
+    "featureIdx": 4091,
+    "val": 0.6389999985694885
+},
+{
+    "asin": "B0007TJB4K",
+    "featureIdx": 4094,
+    "val": 7.0725998878479
+},
+{
+    "asin": "B000EYDK8G",
+    "featureIdx": 4079,
+    "val": 3.3987998962402344
+},
+{
+    "asin": "B000F6SOYS",
+    "featureIdx": 4091,
+    "val": 1.9543999433517456
+},
+{
+    "asin": "B0007MFXMG",
+    "featureIdx": 4094,
+    "val": 2.0385000705718994
+},
+{
+    "asin": "B000FZ3BSI",
+    "featureIdx": 4095,
+    "val": 4.091000080108643
+},
+{
+    "asin": "B000FVY2X0",
+    "featureIdx": 4079,
+    "val": 2.011899948120117
+},
+{
+    "asin": "B000BPUW8O",
+    "featureIdx": 4079,
+    "val": 0.6413999795913696
+},
+{
+    "asin": "B000FX1C7W",
+    "featureIdx": 4094,
+    "val": 2.9981000423431396
+},
+{
+    "asin": "B000GBGLU6",
+    "featureIdx": 4094,
+    "val": 0.6194999814033508
+},
+{
+    "asin": "B000FQ71AG",
+    "featureIdx": 4095,
+    "val": 0.15320000052452087
+},
+{
+    "asin": "B000FFM7M4",
+    "featureIdx": 4095,
+    "val": 2.121799945831299
+},
+{
+    "asin": "B000F36BTQ",
+    "featureIdx": 4095,
+    "val": 1.4291000366210938
+},
+{
+    "asin": "B0007TROJO",
+    "featureIdx": 4095,
+    "val": 1.6289000511169434
+},
+{
+    "asin": "B000FKZ2X0",
+    "featureIdx": 4093,
+    "val": 1.4534000158309937
+},
+{
+    "asin": "B000EYBKCO",
+    "featureIdx": 4091,
+    "val": 0.5254999995231628
+},
+{
+    "asin": "B000FOHUWW",
+    "featureIdx": 4094,
+    "val": 6.48829984664917
+},
+{
+    "asin": "B000BOLRNE",
+    "featureIdx": 4091,
+    "val": 4.698200225830078
+},
+{
+    "asin": "B000AZ5NGQ",
+    "featureIdx": 4095,
+    "val": 2.434000015258789
+},
+{
+    "asin": "B000F3XCK2",
+    "featureIdx": 4091,
+    "val": 1.156599998474121
+},
+{
+    "asin": "B000FVJBPY",
+    "featureIdx": 4094,
+    "val": 0.5659999847412109
+},
+{
+    "asin": "B000BRJY54",
+    "featureIdx": 4095,
+    "val": 3.2781999111175537
+},
+{
+    "asin": "B000FIFZXE",
+    "featureIdx": 4094,
+    "val": 0.28290000557899475
+},
+{
+    "asin": "B0007N7RYM",
+    "featureIdx": 4094,
+    "val": 5.479400157928467
+},
+{
+    "asin": "B000F15ZXG",
+    "featureIdx": 4089,
+    "val": 0.3700000047683716
+},
+{
+    "asin": "B000HX39R6",
+    "featureIdx": 4090,
+    "val": 0.8210999965667725
+},
+{
+    "asin": "B0009MIJS4",
+    "featureIdx": 4086,
+    "val": 0.8579000234603882
+},
+{
+    "asin": "B000BQXG1S",
+    "featureIdx": 4093,
+    "val": 0.29980000853538513
+},
+{
+    "asin": "B000FVC502",
+    "featureIdx": 4095,
+    "val": 2.872999906539917
+},
+{
+    "asin": "B000FEKH72",
+    "featureIdx": 4095,
+    "val": 0.6055999994277954
+},
+{
+    "asin": "B000EPJIHM",
+    "featureIdx": 4095,
+    "val": 0.26030001044273376
+},
+{
+    "asin": "B000FCOS7Y",
+    "featureIdx": 4093,
+    "val": 0.632099986076355
+},
+{
+    "asin": "B000ARFNHI",
+    "featureIdx": 4088,
+    "val": 0.3822000026702881
+},
+{
+    "asin": "B000EIGJJO",
+    "featureIdx": 4093,
+    "val": 0.23399999737739563
+},
+{
+    "asin": "B000EJEKZS",
+    "featureIdx": 4091,
+    "val": 1.5109000205993652
+},
+{
+    "asin": "B000F62S86",
+    "featureIdx": 4088,
+    "val": 2.1693999767303467
+},
+{
+    "asin": "B000FGU8LK",
+    "featureIdx": 4089,
+    "val": 2.0151000022888184
+},
+{
+    "asin": "B000BWABYM",
+    "featureIdx": 4095,
+    "val": 1.080399990081787
+},
+{
+    "asin": "B000I7L5UE",
+    "featureIdx": 4086,
+    "val": 3.8115999698638916
+},
+{
+    "asin": "B000FITCSI",
+    "featureIdx": 4092,
+    "val": 1.9104000329971313
+},
+{
+    "asin": "B000F7T1IK",
+    "featureIdx": 4092,
+    "val": 0.7483999729156494
+},
+{
+    "asin": "B000BNT372",
+    "featureIdx": 4094,
+    "val": 0.9394999742507935
+},
+{
+    "asin": "B0007VWYKG",
+    "featureIdx": 4090,
+    "val": 1.376099944114685
+},
+{
+    "asin": "B000FE5EFM",
+    "featureIdx": 4095,
+    "val": 1.3557000160217285
+},
+{
+    "asin": "B000FERLRG",
+    "featureIdx": 4095,
+    "val": 4.5619001388549805
+},
+{
+    "asin": "B000FT1PTG",
+    "featureIdx": 4094,
+    "val": 3.8877999782562256
+},
+{
+    "asin": "B000B57YE4",
+    "featureIdx": 4089,
+    "val": 4.3256001472473145
+},
+{
+    "asin": "B0007G8SLU",
+    "featureIdx": 4072,
+    "val": 3.8750998973846436
+},
+{
+    "asin": "B000E8CRPO",
+    "featureIdx": 4095,
+    "val": 0.5386000275611877
+},
+{
+    "asin": "B000FVECNU",
+    "featureIdx": 4094,
+    "val": 0.9467999935150146
+},
+{
+    "asin": "B000G08Z74",
+    "featureIdx": 4094,
+    "val": 2.0662999153137207
+},
+{
+    "asin": "B000BCOKIU",
+    "featureIdx": 4094,
+    "val": 0.1347000002861023
+},
+{
+    "asin": "B000FPILDI",
+    "featureIdx": 4089,
+    "val": 2.4916000366210938
+},
+{
+    "asin": "B000FJPVDC",
+    "featureIdx": 4095,
+    "val": 5.585299968719482
+},
+{
+    "asin": "B000G2BW0E",
+    "featureIdx": 4070,
+    "val": 0.4415000081062317
+},
+{
+    "asin": "B000FYZ93E",
+    "featureIdx": 4094,
+    "val": 3.9693000316619873
+},
+{
+    "asin": "B000FSJ1MU",
+    "featureIdx": 4088,
+    "val": 7.972799777984619
+},
+{
+    "asin": "B000FPCLA2",
+    "featureIdx": 4095,
+    "val": 0.6255000233650208
+},
+{
+    "asin": "B000EY7KHS",
+    "featureIdx": 4094,
+    "val": 0.029100000858306885
+},
+{
+    "asin": "B000ARJSBK",
+    "featureIdx": 4094,
+    "val": 3.763000011444092
+},
+{
+    "asin": "B0007KKYUO",
+    "featureIdx": 4095,
+    "val": 0.9154999852180481
+},
+{
+    "asin": "B000ER7HY6",
+    "featureIdx": 4095,
+    "val": 2.6377999782562256
+},
+{
+    "asin": "B000BWB0U6",
+    "featureIdx": 4095,
+    "val": 0.6643000245094299
+},
+{
+    "asin": "B000GZXGDM",
+    "featureIdx": 4093,
+    "val": 2.253700017929077
+},
+{
+    "asin": "B000BWADLS",
+    "featureIdx": 4094,
+    "val": 2.0980000495910645
+},
+{
+    "asin": "B000EOBBBE",
+    "featureIdx": 4089,
+    "val": 1.8733999729156494
+},
+{
+    "asin": "B000FLGRYM",
+    "featureIdx": 4095,
+    "val": 4.029200077056885
+},
+{
+    "asin": "B000FJ2SGU",
+    "featureIdx": 4095,
+    "val": 1.75409996509552
+},
+{
+    "asin": "B000AXUQJC",
+    "featureIdx": 4091,
+    "val": 2.3178999423980713
+},
+{
+    "asin": "B000EOMAH8",
+    "featureIdx": 4087,
+    "val": 0.9919999837875366
+},
+{
+    "asin": "B000FRVBBK",
+    "featureIdx": 4094,
+    "val": 0.04349999874830246
+},
+{
+    "asin": "B0007PO5W2",
+    "featureIdx": 4088,
+    "val": 1.1367000341415405
+},
+{
+    "asin": "B0007RTBT2",
+    "featureIdx": 4070,
+    "val": 3.1426000595092773
+},
+{
+    "asin": "B000F7T1LM",
+    "featureIdx": 4088,
+    "val": 5.861999988555908
+},
+{
+    "asin": "B000BHH0LE",
+    "featureIdx": 4095,
+    "val": 2.5204999446868896
+},
+{
+    "asin": "B000EDL4Y4",
+    "featureIdx": 4088,
+    "val": 2.509500026702881
+},
+{
+    "asin": "B000ESM4DE",
+    "featureIdx": 4095,
+    "val": 3.674299955368042
+},
+{
+    "asin": "B000FZVKE0",
+    "featureIdx": 4093,
+    "val": 2.3059000968933105
+},
+{
+    "asin": "B000FVF36K",
+    "featureIdx": 4095,
+    "val": 2.2736001014709473
+},
+{
+    "asin": "B000EOHEME",
+    "featureIdx": 4095,
+    "val": 0.30649998784065247
+},
+{
+    "asin": "B000FADPA2",
+    "featureIdx": 4089,
+    "val": 2.7227001190185547
+},
+{
+    "asin": "B000F99DMC",
+    "featureIdx": 4090,
+    "val": 2.1275999546051025
+},
+{
+    "asin": "B000F7ZMKG",
+    "featureIdx": 4091,
+    "val": 1.2907999753952026
+},
+{
+    "asin": "B0007PE98C",
+    "featureIdx": 4087,
+    "val": 0.3781000077724457
+},
+{
+    "asin": "B000FPGHQG",
+    "featureIdx": 4095,
+    "val": 1.7000999450683594
+},
+{
+    "asin": "B000F8WGYA",
+    "featureIdx": 4095,
+    "val": 0.23160000145435333
+},
+{
+    "asin": "B000H8GX38",
+    "featureIdx": 4091,
+    "val": 4.187699794769287
+},
+{
+    "asin": "B0007L43AU",
+    "featureIdx": 4086,
+    "val": 1.888200044631958
+},
+{
+    "asin": "B000EWDBRS",
+    "featureIdx": 4095,
+    "val": 2.6089000701904297
+},
+{
+    "asin": "B000EX2C54",
+    "featureIdx": 4087,
+    "val": 1.9645999670028687
+},
+{
+    "asin": "B0007TY0BY",
+    "featureIdx": 4094,
+    "val": 0.8766999840736389
+},
+{
+    "asin": "B0007QMKL4",
+    "featureIdx": 4089,
+    "val": 2.0536999702453613
+},
+{
+    "asin": "B000HKXJ24",
+    "featureIdx": 4079,
+    "val": 0.6011999845504761
+},
+{
+    "asin": "B000AYSH7Y",
+    "featureIdx": 4095,
+    "val": 3.242799997329712
+},
+{
+    "asin": "B0007M4URA",
+    "featureIdx": 4072,
+    "val": 4.64900016784668
+},
+{
+    "asin": "B000FNM09G",
+    "featureIdx": 4095,
+    "val": 1.712399959564209
+},
+{
+    "asin": "B000G3N0AI",
+    "featureIdx": 4094,
+    "val": 0.5325999855995178
+},
+{
+    "asin": "B000EWX272",
+    "featureIdx": 4094,
+    "val": 2.527600049972534
+},
+{
+    "asin": "B000G1FDF0",
+    "featureIdx": 4087,
+    "val": 0.5764999985694885
+},
+{
+    "asin": "B000FDSKWM",
+    "featureIdx": 4088,
+    "val": 2.3821001052856445
+},
+{
+    "asin": "B000FIJVSE",
+    "featureIdx": 4091,
+    "val": 3.0390000343322754
+},
+{
+    "asin": "B000EF3EH2",
+    "featureIdx": 4094,
+    "val": 0.2102999985218048
+},
+{
+    "asin": "B000F3FMVE",
+    "featureIdx": 4085,
+    "val": 2.740499973297119
+},
+{
+    "asin": "B0007PRAEM",
+    "featureIdx": 4093,
+    "val": 1.6520999670028687
+},
+{
+    "asin": "B000FDOP3U",
+    "featureIdx": 4074,
+    "val": 2.3710999488830566
+},
+{
+    "asin": "B000BPLNFU",
+    "featureIdx": 4094,
+    "val": 3.8473000526428223
+},
+{
+    "asin": "B000F5LKQ8",
+    "featureIdx": 4093,
+    "val": 0.03460000082850456
+},
+{
+    "asin": "B000FENAMQ",
+    "featureIdx": 4094,
+    "val": 3.033099889755249
+},
+{
+    "asin": "B0009PTWXM",
+    "featureIdx": 4095,
+    "val": 0.9042999744415283
+},
+{
+    "asin": "B000HDKF5U",
+    "featureIdx": 4095,
+    "val": 2.852099895477295
+},
+{
+    "asin": "B000EZBQC2",
+    "featureIdx": 4094,
+    "val": 0.5328999757766724
+},
+{
+    "asin": "B000FVC5M0",
+    "featureIdx": 4081,
+    "val": 1.3617000579833984
+},
+{
+    "asin": "B000BQM2TK",
+    "featureIdx": 4095,
+    "val": 4.502999782562256
+},
+{
+    "asin": "B000F4UU7E",
+    "featureIdx": 4094,
+    "val": 4.082900047302246
+},
+{
+    "asin": "B000F0XRCS",
+    "featureIdx": 4095,
+    "val": 5.250100135803223
+},
+{
+    "asin": "B000GQR3SU",
+    "featureIdx": 4086,
+    "val": 3.222100019454956
+},
+{
+    "asin": "B000FIR0LE",
+    "featureIdx": 4091,
+    "val": 2.170599937438965
+},
+{
+    "asin": "B000G7BTRU",
+    "featureIdx": 4092,
+    "val": 0.34220001101493835
+},
+{
+    "asin": "B000BUY5XM",
+    "featureIdx": 4095,
+    "val": 0.8130000233650208
+},
+{
+    "asin": "B000FXVZUG",
+    "featureIdx": 4093,
+    "val": 0.9592000246047974
+},
+{
+    "asin": "B000FPH71U",
+    "featureIdx": 4095,
+    "val": 1.4908000230789185
+},
+{
+    "asin": "B000GCAX0Y",
+    "featureIdx": 4094,
+    "val": 1.1074999570846558
+},
+{
+    "asin": "B000F4GCFS",
+    "featureIdx": 4086,
+    "val": 0.4226999878883362
+},
+{
+    "asin": "B000FHD96U",
+    "featureIdx": 4094,
+    "val": 3.301800012588501
+},
+{
+    "asin": "B0007O1XIM",
+    "featureIdx": 4093,
+    "val": 1.9622000455856323
+},
+{
+    "asin": "B000FNJSHS",
+    "featureIdx": 4094,
+    "val": 0.2167000025510788
+},
+{
+    "asin": "B0007N54B0",
+    "featureIdx": 4087,
+    "val": 2.1393001079559326
+},
+{
+    "asin": "B000F3O90Y",
+    "featureIdx": 4088,
+    "val": 1.6633000373840332
+},
+{
+    "asin": "B000F9YCN2",
+    "featureIdx": 4095,
+    "val": 0.3028999865055084
+},
+{
+    "asin": "B000B8L20S",
+    "featureIdx": 4094,
+    "val": 2.592600107192993
+},
+{
+    "asin": "B000FI42PG",
+    "featureIdx": 4091,
+    "val": 0.19820000231266022
+},
+{
+    "asin": "B000GLDSMK",
+    "featureIdx": 4095,
+    "val": 1.197700023651123
+},
+{
+    "asin": "B000FPGY4G",
+    "featureIdx": 4094,
+    "val": 4.51170015335083
+},
+{
+    "asin": "B000FIONNC",
+    "featureIdx": 4095,
+    "val": 4.506800174713135
+},
+{
+    "asin": "B000FV8XTY",
+    "featureIdx": 4095,
+    "val": 1.6157000064849854
+},
+{
+    "asin": "B000H8KRGW",
+    "featureIdx": 4085,
+    "val": 1.9079999923706055
+},
+{
+    "asin": "B000I64ZSY",
+    "featureIdx": 4091,
+    "val": 3.5534000396728516
+},
+{
+    "asin": "B000FEUFUQ",
+    "featureIdx": 4086,
+    "val": 1.5194000005722046
+},
+{
+    "asin": "B000FA00W8",
+    "featureIdx": 4094,
+    "val": 2.2808001041412354
+},
+{
+    "asin": "B0007T37UE",
+    "featureIdx": 4094,
+    "val": 0.41780000925064087
+},
+{
+    "asin": "B0007TFRJS",
+    "featureIdx": 4095,
+    "val": 4.078999996185303
+},
+{
+    "asin": "B000FF3VAQ",
+    "featureIdx": 4095,
+    "val": 1.0492000579833984
+},
+{
+    "asin": "B000E892PM",
+    "featureIdx": 4090,
+    "val": 0.2012999951839447
+},
+{
+    "asin": "B000E8V8CM",
+    "featureIdx": 4089,
+    "val": 1.6470999717712402
+},
+{
+    "asin": "B000EYMYG0",
+    "featureIdx": 4094,
+    "val": 0.9509000182151794
+},
+{
+    "asin": "B000BRBYJ8",
+    "featureIdx": 4095,
+    "val": 1.3813999891281128
+},
+{
+    "asin": "B000BTVQK8",
+    "featureIdx": 4086,
+    "val": 2.1233999729156494
+},
+{
+    "asin": "B000F3HH3A",
+    "featureIdx": 4093,
+    "val": 1.0032999515533447
+},
+{
+    "asin": "B000EUG0NW",
+    "featureIdx": 4091,
+    "val": 0.09220000356435776
+},
+{
+    "asin": "B0007TTTLU",
+    "featureIdx": 4091,
+    "val": 0.09139999747276306
+},
+{
+    "asin": "B000FFAKK0",
+    "featureIdx": 4095,
+    "val": 1.4601999521255493
+},
+{
+    "asin": "B000FTM7T8",
+    "featureIdx": 4094,
+    "val": 1.6208000183105469
+},
+{
+    "asin": "B000ER0C2A",
+    "featureIdx": 4075,
+    "val": 2.836400032043457
+},
+{
+    "asin": "B000F1Q5S0",
+    "featureIdx": 4093,
+    "val": 2.1775999069213867
+},
+{
+    "asin": "B000FQ0UMC",
+    "featureIdx": 4087,
+    "val": 0.5685999989509583
+},
+{
+    "asin": "B000BQLT2Q",
+    "featureIdx": 4091,
+    "val": 1.2720999717712402
+},
+{
+    "asin": "B0007PNAXC",
+    "featureIdx": 4094,
+    "val": 0.014600000344216824
+},
+{
+    "asin": "B000F6X12S",
+    "featureIdx": 4088,
+    "val": 0.3578000068664551
+},
+{
+    "asin": "B000FQ8DFS",
+    "featureIdx": 4094,
+    "val": 3.678299903869629
+},
+{
+    "asin": "B000FPBXCE",
+    "featureIdx": 4093,
+    "val": 0.40939998626708984
+},
+{
+    "asin": "B000F717UK",
+    "featureIdx": 4090,
+    "val": 0.22769999504089355
+},
+{
+    "asin": "B0007N541K",
+    "featureIdx": 4087,
+    "val": 0.5727999806404114
+},
+{
+    "asin": "B000FOBU78",
+    "featureIdx": 4094,
+    "val": 3.1377999782562256
+},
+{
+    "asin": "B000ETUCPA",
+    "featureIdx": 4070,
+    "val": 1.4422999620437622
+},
+{
+    "asin": "B000FHDEQU",
+    "featureIdx": 4094,
+    "val": 2.0132999420166016
+},
+{
+    "asin": "B000FO0DD0",
+    "featureIdx": 4095,
+    "val": 0.04470000043511391
+},
+{
+    "asin": "B000FZ0G4U",
+    "featureIdx": 4087,
+    "val": 6.6697001457214355
+},
+{
+    "asin": "B000FGIPYC",
+    "featureIdx": 4080,
+    "val": 8.119999885559082
+},
+{
+    "asin": "B000BX7QK8",
+    "featureIdx": 4082,
+    "val": 0.8963000178337097
+},
+{
+    "asin": "B000ARB1UQ",
+    "featureIdx": 4095,
+    "val": 0.1054999977350235
+},
+{
+    "asin": "B000F64NPC",
+    "featureIdx": 4095,
+    "val": 0.4715999960899353
+},
+{
+    "asin": "B000BWDOQY",
+    "featureIdx": 4094,
+    "val": 0.17720000445842743
+},
+{
+    "asin": "B000F5EKN8",
+    "featureIdx": 4094,
+    "val": 2.4130001068115234
+},
+{
+    "asin": "B000FH0TR2",
+    "featureIdx": 4094,
+    "val": 1.6729999780654907
+},
+{
+    "asin": "B000EXW10K",
+    "featureIdx": 4094,
+    "val": 2.9874000549316406
+},
+{
+    "asin": "B000FQ0Q58",
+    "featureIdx": 4094,
+    "val": 2.336199998855591
+},
+{
+    "asin": "B000EP1JRY",
+    "featureIdx": 4090,
+    "val": 0.06620000302791595
+},
+{
+    "asin": "B000FVL5XA",
+    "featureIdx": 4095,
+    "val": 0.83160001039505
+},
+{
+    "asin": "B0007N53T8",
+    "featureIdx": 4088,
+    "val": 1.059499979019165
+},
+{
+    "asin": "B000IAYQWK",
+    "featureIdx": 4095,
+    "val": 0.900600016117096
+},
+{
+    "asin": "B000FKD7TG",
+    "featureIdx": 4094,
+    "val": 0.886900007724762
+},
+{
+    "asin": "B000GZD5II",
+    "featureIdx": 4095,
+    "val": 2.6756999492645264
+},
+{
+    "asin": "B000F9GT2O",
+    "featureIdx": 4093,
+    "val": 4.729800224304199
+},
+{
+    "asin": "B000FPGKWM",
+    "featureIdx": 4090,
+    "val": 1.2991000413894653
+},
+{
+    "asin": "B000FF7CX8",
+    "featureIdx": 4093,
+    "val": 0.9745000004768372
+},
+{
+    "asin": "B000I3OTNI",
+    "featureIdx": 4089,
+    "val": 0.27469998598098755
+},
+{
+    "asin": "B000F8GY6G",
+    "featureIdx": 4094,
+    "val": 1.357800006866455
+},
+{
+    "asin": "B000FPXENU",
+    "featureIdx": 4086,
+    "val": 0.8331999778747559
+},
+{
+    "asin": "B000HAXDNE",
+    "featureIdx": 4095,
+    "val": 1.409999966621399
+},
+{
+    "asin": "B000EH09PU",
+    "featureIdx": 4090,
+    "val": 0.565500020980835
+},
+{
+    "asin": "B000B9EAYM",
+    "featureIdx": 4081,
+    "val": 0.678600013256073
+},
+{
+    "asin": "B000F7R0SI",
+    "featureIdx": 4095,
+    "val": 4.219600200653076
+},
+{
+    "asin": "B000FVY3V6",
+    "featureIdx": 4094,
+    "val": 1.114300012588501
+},
+{
+    "asin": "B0009PRAMW",
+    "featureIdx": 4093,
+    "val": 0.09040000289678574
+},
+{
+    "asin": "B000F4FAYW",
+    "featureIdx": 4094,
+    "val": 5.561399936676025
+},
+{
+    "asin": "B000HAO7BG",
+    "featureIdx": 4093,
+    "val": 4.441199779510498
+},
+{
+    "asin": "B000AYWPEA",
+    "featureIdx": 4094,
+    "val": 2.0376999378204346
+},
+{
+    "asin": "B000EHY45G",
+    "featureIdx": 4094,
+    "val": 0.0908999964594841
+},
+{
+    "asin": "B000C41SZ0",
+    "featureIdx": 4094,
+    "val": 3.6445999145507812
+},
+{
+    "asin": "B000FL50MW",
+    "featureIdx": 4090,
+    "val": 1.5671000480651855
+},
+{
+    "asin": "B000FLBR24",
+    "featureIdx": 4086,
+    "val": 0.503600001335144
+},
+{
+    "asin": "B000FVALP8",
+    "featureIdx": 4081,
+    "val": 7.177599906921387
+},
+{
+    "asin": "B000BO254O",
+    "featureIdx": 4095,
+    "val": 4.634099960327148
+},
+{
+    "asin": "B000FNQI8K",
+    "featureIdx": 4095,
+    "val": 0.2565000057220459
+},
+{
+    "asin": "B000EMKAZO",
+    "featureIdx": 4070,
+    "val": 1.9119000434875488
+},
+{
+    "asin": "B000FPIQBU",
+    "featureIdx": 4086,
+    "val": 4.839000225067139
+},
+{
+    "asin": "B000F5P8CU",
+    "featureIdx": 4095,
+    "val": 0.8044999837875366
+},
+{
+    "asin": "B00070LW8M",
+    "featureIdx": 4080,
+    "val": 0.31850001215934753
+},
+{
+    "asin": "B000FBOQSQ",
+    "featureIdx": 4090,
+    "val": 0.6274999976158142
+},
+{
+    "asin": "B000AZ51MC",
+    "featureIdx": 4095,
+    "val": 0.2328999936580658
+},
+{
+    "asin": "B000IBET3U",
+    "featureIdx": 4094,
+    "val": 2.373199939727783
+},
+{
+    "asin": "B0007MFYHK",
+    "featureIdx": 4095,
+    "val": 0.09870000183582306
+},
+{
+    "asin": "B000G2U6YM",
+    "featureIdx": 4072,
+    "val": 0.88919997215271
+},
+{
+    "asin": "B000F06WUM",
+    "featureIdx": 4094,
+    "val": 0.042100001126527786
+},
+{
+    "asin": "B000FEUFQ0",
+    "featureIdx": 4091,
+    "val": 1.6655999422073364
+},
+{
+    "asin": "B000EWFMQG",
+    "featureIdx": 4093,
+    "val": 4.26039981842041
+},
+{
+    "asin": "B0007VPSOK",
+    "featureIdx": 4086,
+    "val": 2.2692999839782715
+},
+{
+    "asin": "B000BRR8HK",
+    "featureIdx": 4092,
+    "val": 1.4901000261306763
+},
+{
+    "asin": "B000H8KKIW",
+    "featureIdx": 4080,
+    "val": 4.150199890136719
+},
+{
+    "asin": "B000BWFHVO",
+    "featureIdx": 4094,
+    "val": 1.364400029182434
+},
+{
+    "asin": "B000F3Q4EI",
+    "featureIdx": 4072,
+    "val": 3.149399995803833
+},
+{
+    "asin": "B000FHHNXA",
+    "featureIdx": 4095,
+    "val": 2.8434998989105225
+},
+{
+    "asin": "B000F64S48",
+    "featureIdx": 4093,
+    "val": 3.004300117492676
+},
+{
+    "asin": "B000EJUUFM",
+    "featureIdx": 4094,
+    "val": 4.069799900054932
+},
+{
+    "asin": "B000FSH0CS",
+    "featureIdx": 4093,
+    "val": 2.219399929046631
+},
+{
+    "asin": "B000EYFU0C",
+    "featureIdx": 4094,
+    "val": 3.1535000801086426
+},
+{
+    "asin": "B000HAB93K",
+    "featureIdx": 4085,
+    "val": 0.040300000458955765
+},
+{
+    "asin": "B000F0EF7O",
+    "featureIdx": 4094,
+    "val": 0.9264000058174133
+},
+{
+    "asin": "B000ET6M6S",
+    "featureIdx": 4079,
+    "val": 0.6198999881744385
+},
+{
+    "asin": "B000FFQX6U",
+    "featureIdx": 4094,
+    "val": 2.125999927520752
+},
+{
+    "asin": "B000GAD9FW",
+    "featureIdx": 4079,
+    "val": 1.4443000555038452
+},
+{
+    "asin": "B000FTHM2A",
+    "featureIdx": 4095,
+    "val": 4.57919979095459
+},
+{
+    "asin": "B0009M964A",
+    "featureIdx": 4095,
+    "val": 2.4951999187469482
+},
+{
+    "asin": "B000F19L5O",
+    "featureIdx": 4095,
+    "val": 2.325200080871582
+},
+{
+    "asin": "B0007R6CAS",
+    "featureIdx": 4095,
+    "val": 2.5018999576568604
+},
+{
+    "asin": "B000FE96BK",
+    "featureIdx": 4089,
+    "val": 3.9579999446868896
+},
+{
+    "asin": "B0007VUEKI",
+    "featureIdx": 4088,
+    "val": 0.2757999897003174
+},
+{
+    "asin": "B000FEWCW0",
+    "featureIdx": 4092,
+    "val": 0.029899999499320984
+},
+{
+    "asin": "B000BOIVK6",
+    "featureIdx": 4070,
+    "val": 3.9767000675201416
+},
+{
+    "asin": "B000G01U80",
+    "featureIdx": 4092,
+    "val": 1.2568999528884888
+},
+{
+    "asin": "B000G2NXCO",
+    "featureIdx": 4091,
+    "val": 3.8914999961853027
+},
+{
+    "asin": "B0007V8AGI",
+    "featureIdx": 4094,
+    "val": 2.9372000694274902
+},
+{
+    "asin": "B000GBOV12",
+    "featureIdx": 4090,
+    "val": 6.972300052642822
+},
+{
+    "asin": "B000GAYQK4",
+    "featureIdx": 4095,
+    "val": 2.231600046157837
+},
+{
+    "asin": "B000EXVVQK",
+    "featureIdx": 4090,
+    "val": 1.1514999866485596
+},
+{
+    "asin": "B000EIR6E6",
+    "featureIdx": 4095,
+    "val": 4.613699913024902
+},
+{
+    "asin": "B000FA086Q",
+    "featureIdx": 4084,
+    "val": 1.3449000120162964
+},
+{
+    "asin": "B000GY4F0G",
+    "featureIdx": 4088,
+    "val": 7.637700080871582
+},
+{
+    "asin": "B000FBXRTU",
+    "featureIdx": 4080,
+    "val": 0.5475000143051147
+},
+{
+    "asin": "B000FLTJ1U",
+    "featureIdx": 4095,
+    "val": 2.8524999618530273
+},
+{
+    "asin": "B0007W0T7A",
+    "featureIdx": 4094,
+    "val": 2.1744000911712646
+},
+{
+    "asin": "B00078BYIW",
+    "featureIdx": 4094,
+    "val": 0.897599995136261
+},
+{
+    "asin": "B000ETZWTQ",
+    "featureIdx": 4091,
+    "val": 1.2613999843597412
+},
+{
+    "asin": "B000FGIG4Q",
+    "featureIdx": 4094,
+    "val": 2.5469000339508057
+},
+{
+    "asin": "B000FBZ6C6",
+    "featureIdx": 4093,
+    "val": 0.8428999781608582
+},
+{
+    "asin": "B000F4H6IK",
+    "featureIdx": 4095,
+    "val": 2.1122000217437744
+},
+{
+    "asin": "B000F88Q4E",
+    "featureIdx": 4095,
+    "val": 0.2732999920845032
+},
+{
+    "asin": "B000F64TGA",
+    "featureIdx": 4088,
+    "val": 0.18610000610351562
+},
+{
+    "asin": "B0009MZXB0",
+    "featureIdx": 4087,
+    "val": 0.7301999926567078
+},
+{
+    "asin": "B000BGWWUE",
+    "featureIdx": 4089,
+    "val": 0.4733000099658966
+},
+{
+    "asin": "B000B2OSXM",
+    "featureIdx": 4089,
+    "val": 3.8336000442504883
+},
+{
+    "asin": "B000FVC4O4",
+    "featureIdx": 4092,
+    "val": 0.08420000225305557
+},
+{
+    "asin": "B000BWR23A",
+    "featureIdx": 4088,
+    "val": 7.016600131988525
+},
+{
+    "asin": "B000HNF14U",
+    "featureIdx": 4087,
+    "val": 0.48260000348091125
+},
+{
+    "asin": "B000F9VX7U",
+    "featureIdx": 4095,
+    "val": 3.6682000160217285
+},
+{
+    "asin": "B000BMICAC",
+    "featureIdx": 4094,
+    "val": 1.0788999795913696
+},
+{
+    "asin": "B000BPNZWY",
+    "featureIdx": 4094,
+    "val": 3.555999994277954
+},
+{
+    "asin": "B0007QCPP0",
+    "featureIdx": 4094,
+    "val": 0.9957000017166138
+},
+{
+    "asin": "B000G1KAW6",
+    "featureIdx": 4095,
+    "val": 5.053599834442139
+},
+{
+    "asin": "B000F2O4B4",
+    "featureIdx": 4091,
+    "val": 3.6359000205993652
+},
+{
+    "asin": "B000FHBB24",
+    "featureIdx": 4094,
+    "val": 2.25
+},
+{
+    "asin": "B000FCP0HQ",
+    "featureIdx": 4091,
+    "val": 0.6226000189781189
+},
+{
+    "asin": "B000FUJ312",
+    "featureIdx": 4087,
+    "val": 3.1045000553131104
+},
+{
+    "asin": "B000FHFMG0",
+    "featureIdx": 4093,
+    "val": 0.7330999970436096
+},
+{
+    "asin": "B000FSC8KM",
+    "featureIdx": 4086,
+    "val": 0.03460000082850456
+},
+{
+    "asin": "B000F8YJTU",
+    "featureIdx": 4094,
+    "val": 0.7750999927520752
+},
+{
+    "asin": "B000HDG4OG",
+    "featureIdx": 4087,
+    "val": 1.3504999876022339
+},
+{
+    "asin": "B000ETY756",
+    "featureIdx": 4094,
+    "val": 2.8738999366760254
+},
+{
+    "asin": "B000EWJLHC",
+    "featureIdx": 4093,
+    "val": 0.11169999837875366
+},
+{
+    "asin": "B000HEDZFQ",
+    "featureIdx": 4095,
+    "val": 3.071199893951416
+},
+{
+    "asin": "B0007U0UIK",
+    "featureIdx": 4086,
+    "val": 2.7165000438690186
+},
+{
+    "asin": "B000FDAZDY",
+    "featureIdx": 4091,
+    "val": 4.063199996948242
+},
+{
+    "asin": "B000EQ9BX2",
+    "featureIdx": 4094,
+    "val": 0.1932000070810318
+},
+{
+    "asin": "B000AQVRYC",
+    "featureIdx": 4087,
+    "val": 1.156499981880188
+},
+{
+    "asin": "B000FIQ99I",
+    "featureIdx": 4094,
+    "val": 0.6862000226974487
+},
+{
+    "asin": "B000F4KQ2I",
+    "featureIdx": 4091,
+    "val": 1.7461999654769897
+},
+{
+    "asin": "B000G0SD4O",
+    "featureIdx": 4093,
+    "val": 0.01769999973475933
+},
+{
+    "asin": "B000G33AL2",
+    "featureIdx": 4095,
+    "val": 1.2711999416351318
+},
+{
+    "asin": "B0007PQ67E",
+    "featureIdx": 4094,
+    "val": 3.9997000694274902
+},
+{
+    "asin": "B000IAIRWA",
+    "featureIdx": 4089,
+    "val": 0.8762000203132629
+},
+{
+    "asin": "B000F5IG0G",
+    "featureIdx": 4093,
+    "val": 4.385799884796143
+},
+{
+    "asin": "B000FXW3R0",
+    "featureIdx": 4091,
+    "val": 0.8062000274658203
+},
+{
+    "asin": "B000F6V4HC",
+    "featureIdx": 4094,
+    "val": 0.3497999906539917
+},
+{
+    "asin": "B000F3P9I0",
+    "featureIdx": 4087,
+    "val": 6.321199893951416
+},
+{
+    "asin": "B000GPU3VU",
+    "featureIdx": 4086,
+    "val": 1.7553000450134277
+},
+{
+    "asin": "B0007YRAJI",
+    "featureIdx": 4070,
+    "val": 2.131500005722046
+},
+{
+    "asin": "B000FKX83G",
+    "featureIdx": 4094,
+    "val": 1.6797000169754028
+},
+{
+    "asin": "B000B2V3GC",
+    "featureIdx": 4090,
+    "val": 0.7473000288009644
+},
+{
+    "asin": "B000F0EXLM",
+    "featureIdx": 4094,
+    "val": 1.693600058555603
+},
+{
+    "asin": "B000BT3516",
+    "featureIdx": 4094,
+    "val": 3.0625
+},
+{
+    "asin": "B000GY2B5M",
+    "featureIdx": 4095,
+    "val": 0.7802000045776367
+},
+{
+    "asin": "B000FEPAX8",
+    "featureIdx": 4086,
+    "val": 3.5971999168395996
+},
+{
+    "asin": "B0007MA9HK",
+    "featureIdx": 4086,
+    "val": 4.218200206756592
+},
+{
+    "asin": "B0007TYKNM",
+    "featureIdx": 4094,
+    "val": 2.3313000202178955
+},
+{
+    "asin": "B0007SUE7E",
+    "featureIdx": 4094,
+    "val": 1.1579999923706055
+},
+{
+    "asin": "B000IBJ22I",
+    "featureIdx": 4095,
+    "val": 1.0290000438690186
+},
+{
+    "asin": "B000FBYO3S",
+    "featureIdx": 4094,
+    "val": 1.3903000354766846
+},
+{
+    "asin": "B000FZ97K4",
+    "featureIdx": 4085,
+    "val": 2.2813000679016113
+},
+{
+    "asin": "B000BNTRL4",
+    "featureIdx": 4095,
+    "val": 1.6532000303268433
+},
+{
+    "asin": "B000H10RZK",
+    "featureIdx": 4091,
+    "val": 0.43220001459121704
+},
+{
+    "asin": "B000F5XM46",
+    "featureIdx": 4094,
+    "val": 1.6717000007629395
+},
+{
+    "asin": "B000ESN5FU",
+    "featureIdx": 4094,
+    "val": 0.07729999721050262
+},
+{
+    "asin": "B001V2CCMK",
+    "featureIdx": 4090,
+    "val": 6.66510009765625
+},
+{
+    "asin": "B003BGYCXQ",
+    "featureIdx": 4095,
+    "val": 1.2596999406814575
+},
+{
+    "asin": "B003E1E3SM",
+    "featureIdx": 4093,
+    "val": 1.0958000421524048
+},
+{
+    "asin": "B003FSCC6E",
+    "featureIdx": 4093,
+    "val": 1.1053999662399292
+},
+{
+    "asin": "B001UJ2W2O",
+    "featureIdx": 4093,
+    "val": 2.413300037384033
+},
+{
+    "asin": "B003JFR7YA",
+    "featureIdx": 4093,
+    "val": 0.013299999758601189
+},
+{
+    "asin": "B000VICIFQ",
+    "featureIdx": 4091,
+    "val": 0.02979999966919422
+},
+{
+    "asin": "B001V5JD9C",
+    "featureIdx": 4088,
+    "val": 8.560999870300293
+},
+{
+    "asin": "B001U0P0AE",
+    "featureIdx": 4093,
+    "val": 1.336899995803833
+},
+{
+    "asin": "B002XW6EYO",
+    "featureIdx": 4085,
+    "val": 1.4158999919891357
+},
+{
+    "asin": "B003INE18S",
+    "featureIdx": 4086,
+    "val": 0.0940999984741211
+},
+{
+    "asin": "B00394EQZ4",
+    "featureIdx": 4094,
+    "val": 0.5188000202178955
+},
+{
+    "asin": "B000VH1BJG",
+    "featureIdx": 4087,
+    "val": 1.5736000537872314
+},
+{
+    "asin": "B003F2457E",
+    "featureIdx": 4095,
+    "val": 1.902899980545044
+},
+{
+    "asin": "B003BRFEMS",
+    "featureIdx": 4091,
+    "val": 0.15850000083446503
+},
+{
+    "asin": "B003E64NHS",
+    "featureIdx": 4091,
+    "val": 0.9445000290870667
+},
+{
+    "asin": "B003AHQ8FG",
+    "featureIdx": 4091,
+    "val": 0.5712000131607056
+},
+{
+    "asin": "B003A96V2Y",
+    "featureIdx": 4094,
+    "val": 2.7574000358581543
+},
+{
+    "asin": "B0031Y6JCU",
+    "featureIdx": 4092,
+    "val": 0.3626999855041504
+},
+{
+    "asin": "B001D0L3DO",
+    "featureIdx": 4086,
+    "val": 2.2630999088287354
+},
+{
+    "asin": "B003BFSKPI",
+    "featureIdx": 4079,
+    "val": 0.45320001244544983
+},
+{
+    "asin": "B003BLPTJC",
+    "featureIdx": 4093,
+    "val": 2.371000051498413
+},
+{
+    "asin": "B003AP09M6",
+    "featureIdx": 4095,
+    "val": 1.7742999792099
+},
+{
+    "asin": "B00392A49I",
+    "featureIdx": 4088,
+    "val": 0.8503999710083008
+},
+{
+    "asin": "B001UL4KL8",
+    "featureIdx": 4094,
+    "val": 0.07100000232458115
+},
+{
+    "asin": "B0037FPMIU",
+    "featureIdx": 4095,
+    "val": 0.12939999997615814
+},
+{
+    "asin": "B003I574SU",
+    "featureIdx": 4079,
+    "val": 0.8273000121116638
+},
+{
+    "asin": "B003AVBX34",
+    "featureIdx": 4095,
+    "val": 2.0764000415802
+},
+{
+    "asin": "B001CMYC22",
+    "featureIdx": 4088,
+    "val": 0.5946999788284302
+},
+{
+    "asin": "B001CN4F32",
+    "featureIdx": 4091,
+    "val": 0.7915999889373779
+},
+{
+    "asin": "B002ZJ7L5G",
+    "featureIdx": 4093,
+    "val": 2.628000020980835
+},
+{
+    "asin": "B001TODYAE",
+    "featureIdx": 4095,
+    "val": 0.7444000244140625
+},
+{
+    "asin": "B003A7L7FM",
+    "featureIdx": 4095,
+    "val": 3.7734999656677246
+},
+{
+    "asin": "B0038AAUBS",
+    "featureIdx": 4091,
+    "val": 4.63539981842041
+},
+{
+    "asin": "B003B20BC6",
+    "featureIdx": 4095,
+    "val": 3.3171000480651855
+},
+{
+    "asin": "B0031RGGZ2",
+    "featureIdx": 4093,
+    "val": 0.8817999958992004
+},
+{
+    "asin": "B003F784JY",
+    "featureIdx": 4094,
+    "val": 0.5317000150680542
+},
+{
+    "asin": "B0033X8KSK",
+    "featureIdx": 4087,
+    "val": 2.0004000663757324
+},
+{
+    "asin": "B00342VA0U",
+    "featureIdx": 4079,
+    "val": 1.215000033378601
+},
+{
+    "asin": "B002Z7FP4M",
+    "featureIdx": 4095,
+    "val": 0.9168999791145325
+},
+{
+    "asin": "B003IKMYM6",
+    "featureIdx": 4093,
+    "val": 0.6100000143051147
+},
+{
+    "asin": "B003DQXMAS",
+    "featureIdx": 4093,
+    "val": 1.2395000457763672
+},
+{
+    "asin": "B003G60XD4",
+    "featureIdx": 4091,
+    "val": 1.5476000308990479
+},
+{
+    "asin": "B001CXJ5Z0",
+    "featureIdx": 4094,
+    "val": 2.9151999950408936
+},
+{
+    "asin": "B003CUVNSI",
+    "featureIdx": 4079,
+    "val": 3.086699962615967
+},
+{
+    "asin": "B003EENH6I",
+    "featureIdx": 4095,
+    "val": 2.3289999961853027
+},
+{
+    "asin": "B003EDKH4Y",
+    "featureIdx": 4091,
+    "val": 1.3985999822616577
+},
+{
+    "asin": "B003CN5Z9I",
+    "featureIdx": 4095,
+    "val": 1.9103000164031982
+},
+{
+    "asin": "B001T9NWOC",
+    "featureIdx": 4088,
+    "val": 0.09179999679327011
+},
+{
+    "asin": "B003DNKSNU",
+    "featureIdx": 4080,
+    "val": 4.543399810791016
+},
+{
+    "asin": "B003BLPD1G",
+    "featureIdx": 4090,
+    "val": 5.424099922180176
+},
+{
+    "asin": "B003BYRJQU",
+    "featureIdx": 4095,
+    "val": 0.4733999967575073
+},
+{
+    "asin": "B0037Z7BHK",
+    "featureIdx": 4095,
+    "val": 2.180000066757202
+},
+{
+    "asin": "B001H0F2A0",
+    "featureIdx": 4095,
+    "val": 2.113800048828125
+},
+{
+    "asin": "B003CKMP1W",
+    "featureIdx": 4095,
+    "val": 7.155200004577637
+},
+{
+    "asin": "B001CCVV6M",
+    "featureIdx": 4095,
+    "val": 1.0068999528884888
+},
+{
+    "asin": "B003EENC3G",
+    "featureIdx": 4093,
+    "val": 1.295699954032898
+},
+{
+    "asin": "B003N3UQHI",
+    "featureIdx": 4078,
+    "val": 0.6689000129699707
+},
+{
+    "asin": "B003ARUISE",
+    "featureIdx": 4077,
+    "val": 5.640100002288818
+},
+{
+    "asin": "B0031OG4RU",
+    "featureIdx": 4087,
+    "val": 1.2812999486923218
+},
+{
+    "asin": "B003ELP0XY",
+    "featureIdx": 4094,
+    "val": 1.3480000495910645
+},
+{
+    "asin": "B003FSTO7E",
+    "featureIdx": 4093,
+    "val": 0.13379999995231628
+},
+{
+    "asin": "B001V5J8TC",
+    "featureIdx": 4095,
+    "val": 2.4751999378204346
+},
+{
+    "asin": "B0034C4NRW",
+    "featureIdx": 4086,
+    "val": 0.8176000118255615
+},
+{
+    "asin": "B003EUFO0E",
+    "featureIdx": 4088,
+    "val": 2.5306999683380127
+},
+{
+    "asin": "B0033PS4X4",
+    "featureIdx": 4093,
+    "val": 0.48410001397132874
+},
+{
+    "asin": "B001TH8U3C",
+    "featureIdx": 4070,
+    "val": 2.540299892425537
+},
+{
+    "asin": "B003CIP5ES",
+    "featureIdx": 4095,
+    "val": 2.2348999977111816
+},
+{
+    "asin": "B003ATNDAM",
+    "featureIdx": 4092,
+    "val": 1.9788000583648682
+},
+{
+    "asin": "B003A8BETK",
+    "featureIdx": 4091,
+    "val": 3.284899950027466
+},
+{
+    "asin": "B00336EYIW",
+    "featureIdx": 4095,
+    "val": 1.1856000423431396
+},
+{
+    "asin": "B003IKOE56",
+    "featureIdx": 4094,
+    "val": 6.435200214385986
+},
+{
+    "asin": "B003BNZ3E6",
+    "featureIdx": 4089,
+    "val": 0.21879999339580536
+},
+{
+    "asin": "B001UIGNU2",
+    "featureIdx": 4072,
+    "val": 0.6686000227928162
+},
+{
+    "asin": "B0033CD176",
+    "featureIdx": 4094,
+    "val": 1.8371000289916992
+},
+{
+    "asin": "B0030D4PYQ",
+    "featureIdx": 4089,
+    "val": 2.6591999530792236
+},
+{
+    "asin": "B001H0FHL4",
+    "featureIdx": 4092,
+    "val": 0.888700008392334
+},
+{
+    "asin": "B003B20M8E",
+    "featureIdx": 4094,
+    "val": 2.9030001163482666
+},
+{
+    "asin": "B003TNTU1K",
+    "featureIdx": 4094,
+    "val": 6.098499774932861
+},
+{
+    "asin": "B003ELOYXG",
+    "featureIdx": 4094,
+    "val": 3.0803000926971436
+},
+{
+    "asin": "B003U60RDQ",
+    "featureIdx": 4088,
+    "val": 7.179200172424316
+},
+{
+    "asin": "B0038T00FA",
+    "featureIdx": 4090,
+    "val": 0.5368000268936157
+},
+{
+    "asin": "B003ATDON8",
+    "featureIdx": 4095,
+    "val": 0.9333999752998352
+},
+{
+    "asin": "B003FSG7YW",
+    "featureIdx": 4095,
+    "val": 3.8661000728607178
+},
+{
+    "asin": "B003CN3TFU",
+    "featureIdx": 4093,
+    "val": 2.08489990234375
+},
+{
+    "asin": "B00318E3HE",
+    "featureIdx": 4094,
+    "val": 1.9901000261306763
+},
+{
+    "asin": "B003CMQOF8",
+    "featureIdx": 4095,
+    "val": 0.5825999975204468
+},
+{
+    "asin": "B003B2P824",
+    "featureIdx": 4093,
+    "val": 0.22450000047683716
+},
+{
+    "asin": "B003NH2KOQ",
+    "featureIdx": 4090,
+    "val": 7.31850004196167
+},
+{
+    "asin": "B003E3OZZQ",
+    "featureIdx": 4091,
+    "val": 1.6794999837875366
+},
+{
+    "asin": "B003AVKUAQ",
+    "featureIdx": 4090,
+    "val": 1.2900999784469604
+},
+{
+    "asin": "B00329RJR8",
+    "featureIdx": 4079,
+    "val": 1.4508999586105347
+},
+{
+    "asin": "B003E7OD54",
+    "featureIdx": 4095,
+    "val": 3.786600112915039
+},
+{
+    "asin": "B001V5KAJ4",
+    "featureIdx": 4094,
+    "val": 0.4291999936103821
+},
+{
+    "asin": "B001CJHK2Y",
+    "featureIdx": 4087,
+    "val": 0.7088000178337097
+},
+{
+    "asin": "B003AWG9BO",
+    "featureIdx": 4079,
+    "val": 2.9846999645233154
+},
+{
+    "asin": "B0037OI4V8",
+    "featureIdx": 4091,
+    "val": 0.4187000095844269
+},
+{
+    "asin": "B0039RBUG4",
+    "featureIdx": 4079,
+    "val": 2.690000057220459
+},
+{
+    "asin": "B003E233BE",
+    "featureIdx": 4087,
+    "val": 1.6521999835968018
+},
+{
+    "asin": "B001CZF32M",
+    "featureIdx": 4072,
+    "val": 3.467099905014038
+},
+{
+    "asin": "B003CKE0LK",
+    "featureIdx": 4095,
+    "val": 2.8884999752044678
+},
+{
+    "asin": "B00323ZICM",
+    "featureIdx": 4090,
+    "val": 0.5184999704360962
+},
+{
+    "asin": "B001D8SMQ2",
+    "featureIdx": 4095,
+    "val": 0.33149999380111694
+},
+{
+    "asin": "B003QP411A",
+    "featureIdx": 4095,
+    "val": 0.7129999995231628
+},
+{
+    "asin": "B001UHMUX2",
+    "featureIdx": 4095,
+    "val": 1.68149995803833
+},
+{
+    "asin": "B001DA6YKG",
+    "featureIdx": 4095,
+    "val": 1.114799976348877
+},
+{
+    "asin": "B0030P33W4",
+    "featureIdx": 4095,
+    "val": 2.1085000038146973
+},
+{
+    "asin": "B001UITQL0",
+    "featureIdx": 4085,
+    "val": 0.40700000524520874
+},
+{
+    "asin": "B003CPVB5S",
+    "featureIdx": 4087,
+    "val": 6.729499816894531
+},
+{
+    "asin": "B001UV3MUI",
+    "featureIdx": 4094,
+    "val": 2.3891000747680664
+},
+{
+    "asin": "B003FSMNUY",
+    "featureIdx": 4094,
+    "val": 1.6827000379562378
+},
+{
+    "asin": "B00387G3C6",
+    "featureIdx": 4089,
+    "val": 7.93149995803833
+},
+{
+    "asin": "B001UJVPZE",
+    "featureIdx": 4080,
+    "val": 2.046999931335449
+},
+{
+    "asin": "B003UNZOUK",
+    "featureIdx": 4080,
+    "val": 1.386199951171875
+},
+{
+    "asin": "B0027UKAZQ",
+    "featureIdx": 4094,
+    "val": 0.663100004196167
+},
+{
+    "asin": "B003BLQIY2",
+    "featureIdx": 4091,
+    "val": 1.6644999980926514
+},
+{
+    "asin": "B001VEB4EK",
+    "featureIdx": 4094,
+    "val": 2.799999952316284
+},
+{
+    "asin": "B003U6IHWO",
+    "featureIdx": 4079,
+    "val": 0.5598000288009644
+},
+{
+    "asin": "B001CWY3CG",
+    "featureIdx": 4095,
+    "val": 1.0894999504089355
+},
+{
+    "asin": "B003BG4IFS",
+    "featureIdx": 4087,
+    "val": 0.6007000207901001
+},
+{
+    "asin": "B003C7NEYW",
+    "featureIdx": 4076,
+    "val": 2.388200044631958
+},
+{
+    "asin": "B003UW6J7I",
+    "featureIdx": 4090,
+    "val": 2.9282000064849854
+},
+{
+    "asin": "B001TI3UMC",
+    "featureIdx": 4091,
+    "val": 0.1315000057220459
+},
+{
+    "asin": "B003GDIY3I",
+    "featureIdx": 4094,
+    "val": 5.728499889373779
+},
+{
+    "asin": "B003AZ7WMQ",
+    "featureIdx": 4095,
+    "val": 0.45500001311302185
+},
+{
+    "asin": "B003TU794S",
+    "featureIdx": 4086,
+    "val": 6.581699848175049
+},
+{
+    "asin": "B003IFJB40",
+    "featureIdx": 4095,
+    "val": 3.555999994277954
+},
+{
+    "asin": "B003BDPYLI",
+    "featureIdx": 4086,
+    "val": 6.667099952697754
+},
+{
+    "asin": "B003AIKKH2",
+    "featureIdx": 4092,
+    "val": 0.714900016784668
+},
+{
+    "asin": "B003ANXEFM",
+    "featureIdx": 4093,
+    "val": 0.39579999446868896
+},
+{
+    "asin": "B003AVLWZ8",
+    "featureIdx": 4093,
+    "val": 0.09149999916553497
+},
+{
+    "asin": "B003F8FIZQ",
+    "featureIdx": 4070,
+    "val": 4.155200004577637
+},
+{
+    "asin": "B0032AM4UO",
+    "featureIdx": 4093,
+    "val": 0.35199999809265137
+},
+{
+    "asin": "B003BPYES0",
+    "featureIdx": 4094,
+    "val": 1.8158999681472778
+},
+{
+    "asin": "B002XISC3Y",
+    "featureIdx": 4090,
+    "val": 0.5687000155448914
+},
+{
+    "asin": "B003DWV380",
+    "featureIdx": 4095,
+    "val": 0.7264000177383423
+},
+{
+    "asin": "B003AAEZ5S",
+    "featureIdx": 4082,
+    "val": 0.16019999980926514
+},
+{
+    "asin": "B003JFK6GG",
+    "featureIdx": 4092,
+    "val": 1.6588000059127808
+},
+{
+    "asin": "B003ARTI0S",
+    "featureIdx": 4095,
+    "val": 1.763700008392334
+},
+{
+    "asin": "B003I8EFF2",
+    "featureIdx": 4067,
+    "val": 4.109600067138672
+},
+{
+    "asin": "B001D1E8L2",
+    "featureIdx": 4095,
+    "val": 1.6569000482559204
+},
+{
+    "asin": "B0038BQHWI",
+    "featureIdx": 4088,
+    "val": 0.864799976348877
+},
+{
+    "asin": "B003AXBFFI",
+    "featureIdx": 4094,
+    "val": 1.905500054359436
+}
+]
