@@ -1,7 +1,7 @@
 import pymongo
 
 def recommend(target):
-    myclient = pymongo.MongoClient("mongodb://test:test@localhost:27017/amazonproducts?authSource=amazonproducts")
+    myclient = pymongo.MongoClient("mongodb://cs553:cs553@localhost:27017/amazonproducts?authSource=amazonproducts")
     mydb = myclient["amazonproducts"]
 
     # featureCol = mydb["features"]

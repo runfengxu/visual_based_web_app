@@ -1,106 +1,156 @@
 <!DOCTYPE html>
+<!-- saved from url=(0052)file:///E:/553/553project/web/templates/display.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>display.html</title>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- <link rel="stylesheet" href="./display_files/main.css"> -->
+		<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+	</head>
+	<body class="">
+		<div class="page-wrap">
 
-<head>
-    <meta charset="UTF-8">
-    <title> Show Results</title>
-</head>
-<body>
-    <H2>
-        The Image Uploaded:
-    </H2>
-    <form id="origin">
-        <img src="{{ origin }}" height="400" alt="User Image">
-    </form>
-    <br />
-    <button onclick="pushData()">Upload Judgement</button>
-             
-<script type="text/javascript">
+			<!-- Nav -->
+				
 
-    function createTable(recommendations) {
-        var body = document.getElementsByTagName('body')[0];
-        var tbl = document.createElement('table');
-        tbl.style.width = '100%';
-        tbl.setAttribute('border', '1');
-        var tbdy = document.createElement('tbody');
+			<!-- Main -->
+				<section id="main">
 
-        var tr = document.createElement('tr');
-        for (var j = 0; j < 2; j++) {
-            var text = 'Product Image';
-            if(j == 1){
-                text = 'Human Judgement (Y/N)';
-            }
-            var td = document.createElement('td');
-            td.appendChild(document.createTextNode(text));
-            tr.appendChild(td);
-        }
-        tbdy.appendChild(tr);
-        var order = 0;
-        for(var asin in recommendations) {
-            order += 1;
-            var tr = document.createElement('tr');
-            for (var j = 0; j < 2; j++) {
-                if(j == 0){
-                    var td = document.createElement('td');
-                    var a = document.createElement('a');
-                    var img = new Image();
-                    var currHref = "http://localhost:5000/product/"+asin;
+					<!-- Header -->
+						
 
-                    img.src = recommendations[asin];
-                    a.href = currHref;
-                    a.appendChild(img);
-                    td.appendChild(a);
-                    tr.appendChild(td);
-                    continue;
-                }
-                var td = document.createElement('td');
-                td.appendChild(document.createTextNode('Y'));
-                td.appendChild(createCheckbox('Y', order.toString()));
-                td.appendChild(document.createTextNode('N'));
-                td.appendChild(createCheckbox('N', order.toString()));
-                tr.appendChild(td);
-            }
-            tbdy.appendChild(tr);
-        }
-        tbl.appendChild(tbdy);
-        body.appendChild(tbl)
-    }
-    function createCheckbox(choice, order){
-        var checkbox = document.createElement('input');      
-        checkbox.type = "radio"; 
-        checkbox.name = order; 
-        checkbox.value = choice; 
-        checkbox.id = order + choice;
-        if(choice == 'N'){
-            checkbox.checked = true;
-        } 
-        return checkbox;
-    }
-    function pushData(){
-        var ele = document.getElementsByTagName('input');
-        var entry = [];
-        for(i = 0; i < ele.length; i++){
-            if(ele[i].checked){
-                entry.push(
-                    {order: ele[i].name, value: ele[i].value}
-                );
-            }
-        }
+					<!-- Gallery -->
+						<section id="galleries">
 
-        fetch(`${window.origin}/product/feedback`, {
-            method: "POST",
-            credentials: "include",
-            body: JSON.stringify(entry),
-            cache: "no-cache",
-            headers: new Headers({
-                "content-type" : "application/json"
-            })
-        })
-    }
-    var value = '{{ urls|tojson }}';
-    var recommendations = JSON.parse(value);
-    createTable(recommendations);
-</script>
+							<!-- Photo Galleries -->
+								<div class="gallery">
+									<H2>
+										The Image Uploaded:
+									</H2>
+									<form id="origin">
+										<img src="{{ origin }}" height="400" alt="User Image">
+									</form>
+									<br />
+									<button onclick="pushData()">Upload Judgement</button>
+									<!-- Filters -->
+										<header>
+											<h1>Result</h1>
+											
+										</header>
 
+										
+								</div>
+						</section>
 
-</body>
-</html>
+					<!-- Contact -->
+						
+
+					<!-- Footer -->
+						
+				</section>
+		</div>
+
+		<!-- Scripts -->
+		<script type="text/javascript">
+
+			function createTable(recommendations) {
+				var body = document.getElementsByTagName('body')[0];
+				var tbl = document.createElement('table');
+				tbl.style.width = '100%';
+				tbl.setAttribute('border', '1');
+				var tbdy = document.createElement('tbody');
+		
+				var tr = document.createElement('tr');
+				for (var j = 0; j < 2; j++) {
+					var text = 'Product Image';
+					if(j == 1){
+						text = 'Human Judgement (Y/N)';
+					}
+					var td = document.createElement('td');
+					td.appendChild(document.createTextNode(text));
+					tr.appendChild(td);
+				}
+				tbdy.appendChild(tr);
+				var order = 0;
+				for(var asin in recommendations) {
+					order += 1;
+					var tr = document.createElement('tr');
+					for (var j = 0; j < 2; j++) {
+						if(j == 0){
+							var td = document.createElement('th');
+							var a = document.createElement('a');
+							var img = new Image();
+							var currHref = "http://13.90.112.30/product/"+asin;
+		
+							img.src = recommendations[asin];
+							a.href = currHref;
+							a.appendChild(img);
+							td.appendChild(a);
+							tr.appendChild(td);
+							continue;
+						}
+						var td = document.createElement('td');
+						td.appendChild(document.createTextNode('Y'));
+						td.appendChild(createCheckbox('Y', order.toString()));
+						td.appendChild(document.createTextNode('N'));
+						td.appendChild(createCheckbox('N', order.toString()));
+						tr.appendChild(td);
+					}
+					tbdy.appendChild(tr);
+				}
+				tbl.appendChild(tbdy);
+				body.appendChild(tbl)
+			}
+			function createCheckbox(choice, order){
+				var checkbox = document.createElement('input');      
+				checkbox.type = "radio"; 
+				checkbox.name = order; 
+				checkbox.value = choice; 
+				checkbox.id = order + choice;
+				if(choice == 'N'){
+					checkbox.checked = true;
+				} 
+				return checkbox;
+			}
+			function pushData(){
+				var ele = document.getElementsByTagName('input');
+				var entry = [];
+				for(i = 0; i < ele.length; i++){
+					if(ele[i].checked){
+						entry.push(
+							{order: ele[i].name, value: ele[i].value}
+						);
+					}
+				}
+		
+				fetch(`${window.origin}/product/feedback`, {
+					method: "POST",
+					credentials: "include",
+					body: JSON.stringify(entry),
+					cache: "no-cache",
+					headers: new Headers({
+						"content-type" : "application/json"
+					})
+				})
+			}
+			var value = '{{ urls|tojson }}';
+			var recommendations = JSON.parse(value);
+			createTable(recommendations);
+		</script>
+		
+		<script type="text/javascript"
+		src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+		<script type="text/javascript"
+		src="{{ url_for('static', filename='js/jquery.poptrox.min.js') }}"></script>
+		<script type="text/javascript"
+		src="{{ url_for('static', filename='js/jquery.scrolly.min.js') }}"></script>
+		<script type="text/javascript"
+		src="{{ url_for('static', filename='js/skel.min.js') }}"></script>
+		<script type="text/javascript"
+		src="{{ url_for('static', filename='js/util.js') }}"></script>
+		<script type="text/javascript"
+		src="{{ url_for('static', filename='js/main.js') }}"></script>
+	
+
+	
+ </body></html>

@@ -2,18 +2,72 @@ from flask import Flask, request, jsonify, render_template, redirect, url_for, m
 from extract_feature import extract
 import os
 from flask_pymongo import PyMongo
-
-from DAO import recommend
 import json
 
 import uuid
+import array
+import numpy as np
+
+from scipy.spatial import distance
+import sys
+# import pymongo
+import heapq
+import time
 
 app = Flask(__name__)
 
-app.config['MONGO_URI'] = 'mongodb://test:test@localhost:27017/amazonproducts?authSource=amazonproducts'
+app.config['MONGO_URI'] = 'mongodb://cs553:cs553@localhost:27017/amazonproducts?authSource=amazonproducts'
 mongo = PyMongo(app)
 
 ALLOWED_EXT = set(['png','jpg','jpeg','tif'])
+
+def predict(targetarray):
+    s = time.time()
+    H=[(-4000,-4000)]*10
+    # metaCol = mongo.db.metadata
+    heapq.heapify(H)
+    recommendUrls = {}
+    feature = mongo.db.feature
+    metadata = mongo.db.metadata
+    cur = feature.find()
+    count=0
+    for i in cur:
+        asin = list(i.keys())[1]
+        b = i[asin]
+        dist = -1*distance.cosine(targetarray,b[0])
+        # dist=0
+        heapq.heappushpop(H,(dist,asin[4:]))
+        count+=1
+        if(count>30000):
+            break
+            # print(count,file = sys.stdout)
+    # print(count,file=sys.stdout)
+    # print(time.time()-s)
+    for i in H:
+        # t=time.time()
+        cursor = metadata.find({"asin":i[1]})[0]
+        # print(time.time()-t)
+        # print(len(cursor))
+        t = time.time()
+        
+        url=cursor['imUrl']
+        # print(time.time()-t)
+        recommendUrls[i[1]]=url        
+    # print(time.time()-s)
+    return recommendUrls
+
+
+def recommend(target):
+    # featureCol = mydb["features"]
+    metaCol = mongo.db.metadata
+
+    recommendUrls = {}
+
+    for meta in metaCol.find().limit(10):
+
+        recommendUrls[meta["asin"]] = meta["imUrl"]
+
+    return recommendUrls
 
 @app.route('/')
 def main_page():
@@ -42,8 +96,8 @@ def upload_predict():
     feature = extract(upload_path)
 
     #get recommendation
-    urls = recommend(feature)
-
+    # urls = recommend(feature)
+    urls = predict(feature)
     origin = os.path.join('static/images', file_name)
 
     return render_template('display.html', origin=origin, urls=urls)
